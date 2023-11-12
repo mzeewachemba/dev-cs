@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\2.Online MS CS\\2nd Year\\1st Semester\\CPSC501\\Repo\\First\\First.csproj": {}
+    "E:\\2.Online MS CS\\2nd Year\\1st Semester\\CPSC501\\dev-cs\\First\\First.csproj": {}
   },
   "projects": {
-    "E:\\2.Online MS CS\\2nd Year\\1st Semester\\CPSC501\\Repo\\First\\First.csproj": {
+    "E:\\2.Online MS CS\\2nd Year\\1st Semester\\CPSC501\\dev-cs\\First\\First.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\2.Online MS CS\\2nd Year\\1st Semester\\CPSC501\\Repo\\First\\First.csproj",
+        "projectUniqueName": "E:\\2.Online MS CS\\2nd Year\\1st Semester\\CPSC501\\dev-cs\\First\\First.csproj",
         "projectName": "First",
-        "projectPath": "E:\\2.Online MS CS\\2nd Year\\1st Semester\\CPSC501\\Repo\\First\\First.csproj",
+        "projectPath": "E:\\2.Online MS CS\\2nd Year\\1st Semester\\CPSC501\\dev-cs\\First\\First.csproj",
         "packagesPath": "C:\\Users\\allen.000\\.nuget\\packages\\",
-        "outputPath": "E:\\2.Online MS CS\\2nd Year\\1st Semester\\CPSC501\\Repo\\First\\obj\\",
+        "outputPath": "E:\\2.Online MS CS\\2nd Year\\1st Semester\\CPSC501\\dev-cs\\First\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
