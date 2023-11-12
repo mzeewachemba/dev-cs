@@ -1,0 +1,16 @@
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\First\bin\Debug\net7.0-windows\First.exe
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\First\bin\Debug\net7.0-windows\First.deps.json
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\First\bin\Debug\net7.0-windows\First.runtimeconfig.json
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\First\bin\Debug\net7.0-windows\First.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\First\bin\Debug\net7.0-windows\First.pdb
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\First\obj\Debug\net7.0-windows\First.Form1.resources
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\First\obj\Debug\net7.0-windows\First.csproj.GenerateResource.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\First\obj\Debug\net7.0-windows\First.GeneratedMSBuildEditorConfig.editorconfig
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\First\obj\Debug\net7.0-windows\First.AssemblyInfoInputs.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\First\obj\Debug\net7.0-windows\First.AssemblyInfo.cs
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\First\obj\Debug\net7.0-windows\First.csproj.CoreCompileInputs.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\First\obj\Debug\net7.0-windows\First.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\First\obj\Debug\net7.0-windows\refint\First.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\First\obj\Debug\net7.0-windows\First.pdb
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\First\obj\Debug\net7.0-windows\First.genruntimeconfig.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\First\obj\Debug\net7.0-windows\ref\First.dll
