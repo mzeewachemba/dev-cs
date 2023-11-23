@@ -1,0 +1,16 @@
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\InheritenceApp\bin\Debug\net7.0-windows\InheritenceApp.exe
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\InheritenceApp\bin\Debug\net7.0-windows\InheritenceApp.deps.json
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\InheritenceApp\bin\Debug\net7.0-windows\InheritenceApp.runtimeconfig.json
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\InheritenceApp\bin\Debug\net7.0-windows\InheritenceApp.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\InheritenceApp\bin\Debug\net7.0-windows\InheritenceApp.pdb
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\InheritenceApp\obj\Debug\net7.0-windows\InheritenceApp.Form1.resources
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\InheritenceApp\obj\Debug\net7.0-windows\InheritenceApp.csproj.GenerateResource.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\InheritenceApp\obj\Debug\net7.0-windows\InheritenceApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\InheritenceApp\obj\Debug\net7.0-windows\InheritenceApp.AssemblyInfoInputs.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\InheritenceApp\obj\Debug\net7.0-windows\InheritenceApp.AssemblyInfo.cs
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\InheritenceApp\obj\Debug\net7.0-windows\InheritenceApp.csproj.CoreCompileInputs.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\InheritenceApp\obj\Debug\net7.0-windows\InheritenceApp.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\InheritenceApp\obj\Debug\net7.0-windows\refint\InheritenceApp.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\InheritenceApp\obj\Debug\net7.0-windows\InheritenceApp.pdb
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\InheritenceApp\obj\Debug\net7.0-windows\InheritenceApp.genruntimeconfig.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\InheritenceApp\obj\Debug\net7.0-windows\ref\InheritenceApp.dll
