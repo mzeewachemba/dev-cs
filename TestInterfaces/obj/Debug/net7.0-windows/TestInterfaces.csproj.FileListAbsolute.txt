@@ -1,0 +1,16 @@
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\TestInterfaces\bin\Debug\net7.0-windows\TestInterfaces.exe
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\TestInterfaces\bin\Debug\net7.0-windows\TestInterfaces.deps.json
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\TestInterfaces\bin\Debug\net7.0-windows\TestInterfaces.runtimeconfig.json
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\TestInterfaces\bin\Debug\net7.0-windows\TestInterfaces.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\TestInterfaces\bin\Debug\net7.0-windows\TestInterfaces.pdb
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\TestInterfaces\obj\Debug\net7.0-windows\TestInterfaces.Form1.resources
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\TestInterfaces\obj\Debug\net7.0-windows\TestInterfaces.csproj.GenerateResource.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\TestInterfaces\obj\Debug\net7.0-windows\TestInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\TestInterfaces\obj\Debug\net7.0-windows\TestInterfaces.AssemblyInfoInputs.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\TestInterfaces\obj\Debug\net7.0-windows\TestInterfaces.AssemblyInfo.cs
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\TestInterfaces\obj\Debug\net7.0-windows\TestInterfaces.csproj.CoreCompileInputs.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\TestInterfaces\obj\Debug\net7.0-windows\TestInterfaces.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\TestInterfaces\obj\Debug\net7.0-windows\refint\TestInterfaces.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\TestInterfaces\obj\Debug\net7.0-windows\TestInterfaces.pdb
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\TestInterfaces\obj\Debug\net7.0-windows\TestInterfaces.genruntimeconfig.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\TestInterfaces\obj\Debug\net7.0-windows\ref\TestInterfaces.dll
