@@ -22,10 +22,50 @@ namespace OOPConcepts
 
         private void btnGenClass_Click(object sender, EventArgs e)
         {
-            MyGen<int,double> g1 = new MyGen<int,double>();
+            MyGen<int, double> g1 = new MyGen<int, double>();
             g1.A = 5;
             g1.B = 8.9;
             MessageBox.Show(g1.ToString());
+        }
+
+        private void btnTestList_Click(object sender, EventArgs e)
+        {
+            List<Student> ST = new List<Student>();
+            //alternative to using aconstructor, eliminate the need to have a constructor
+            Student s1 = new Student { Id = 1234, Name = "Mahmood", Test1 = 89, Test2 = 5 };
+            ST.Add(s1);
+            Student s2 = new Student { Id = 14, Name = "Ausif", Test1 = 89, Test2 = 5 };
+            ST.Add(s2);
+            MessageBox.Show(ST.Count.ToString());
+
+            for (int i = 0; i < ST.Count; i++)
+            {
+                MessageBox.Show(ST[i].Id.ToString());
+            }
+
+            //for each loop, used in data structures
+            foreach (var st in ST)
+            {
+                MessageBox.Show(st.Id.ToString() + "  " + st.Name);
+            }
+
+            //using a constructor
+            //Student s1 = new Student(1234, "Mahmood", 89,5);
+            //s1.Id = 1234;
+            //s1.Name = "Mahmood";
+            //s1.Test1 = 89;
+            //s1.Test2 = 5;
+        }
+
+        private void btnExtMethod_Click(object sender, EventArgs e)
+        {
+            Employee e1 = new Employee { HoursWorked = 60, Id = 1234, Name = "Kaliso", PayRate = 10 };
+            double pay = e1.ComputePay();
+            MessageBox.Show(pay.ToString());
+
+            double overtimePay = e1.ComputeOverTimePay(2);
+            MessageBox.Show(overtimePay.ToString());
+
         }
 
         //public void Exchange(ref int a,ref int b)

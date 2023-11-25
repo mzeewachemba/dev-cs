@@ -30,6 +30,8 @@
         {
             btnExchange = new Button();
             btnGenClass = new Button();
+            btnTestList = new Button();
+            btnExtMethod = new Button();
             SuspendLayout();
             // 
             // btnExchange
@@ -52,11 +54,33 @@
             btnGenClass.UseVisualStyleBackColor = true;
             btnGenClass.Click += btnGenClass_Click;
             // 
+            // btnTestList
+            // 
+            btnTestList.Location = new Point(47, 138);
+            btnTestList.Name = "btnTestList";
+            btnTestList.Size = new Size(94, 29);
+            btnTestList.TabIndex = 2;
+            btnTestList.Text = "Test List";
+            btnTestList.UseVisualStyleBackColor = true;
+            btnTestList.Click += btnTestList_Click;
+            // 
+            // btnExtMethod
+            // 
+            btnExtMethod.Location = new Point(225, 138);
+            btnExtMethod.Name = "btnExtMethod";
+            btnExtMethod.Size = new Size(94, 29);
+            btnExtMethod.TabIndex = 3;
+            btnExtMethod.Text = "Extension Method";
+            btnExtMethod.UseVisualStyleBackColor = true;
+            btnExtMethod.Click += btnExtMethod_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(436, 223);
+            ClientSize = new Size(422, 362);
+            Controls.Add(btnExtMethod);
+            Controls.Add(btnTestList);
             Controls.Add(btnGenClass);
             Controls.Add(btnExchange);
             Name = "Form1";
@@ -68,5 +92,7 @@
 
         private Button btnExchange;
         private Button btnGenClass;
+        private Button btnTestList;
+        private Button btnExtMethod;
     }
 }
