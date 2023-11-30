@@ -14,3 +14,19 @@ E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\StudentApp\obj\Debug\net7.0
 E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\StudentApp\obj\Debug\net7.0-windows\StudentApp.pdb
 E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\StudentApp\obj\Debug\net7.0-windows\StudentApp.genruntimeconfig.cache
 E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\Repo\StudentApp\obj\Debug\net7.0-windows\ref\StudentApp.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\StudentApp - OG\bin\Debug\net7.0-windows\StudentApp.exe
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\StudentApp - OG\bin\Debug\net7.0-windows\StudentApp.deps.json
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\StudentApp - OG\bin\Debug\net7.0-windows\StudentApp.runtimeconfig.json
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\StudentApp - OG\bin\Debug\net7.0-windows\StudentApp.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\StudentApp - OG\bin\Debug\net7.0-windows\StudentApp.pdb
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\StudentApp - OG\obj\Debug\net7.0-windows\StudentApp.Form1.resources
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\StudentApp - OG\obj\Debug\net7.0-windows\StudentApp.csproj.GenerateResource.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\StudentApp - OG\obj\Debug\net7.0-windows\StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\StudentApp - OG\obj\Debug\net7.0-windows\StudentApp.AssemblyInfoInputs.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\StudentApp - OG\obj\Debug\net7.0-windows\StudentApp.AssemblyInfo.cs
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\StudentApp - OG\obj\Debug\net7.0-windows\StudentApp.csproj.CoreCompileInputs.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\StudentApp - OG\obj\Debug\net7.0-windows\StudentApp.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\StudentApp - OG\obj\Debug\net7.0-windows\refint\StudentApp.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\StudentApp - OG\obj\Debug\net7.0-windows\StudentApp.pdb
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\StudentApp - OG\obj\Debug\net7.0-windows\StudentApp.genruntimeconfig.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\StudentApp - OG\obj\Debug\net7.0-windows\ref\StudentApp.dll
