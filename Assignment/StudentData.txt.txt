@@ -1,0 +1,7 @@
+12341	Bill	Baker	UNDERGRAD	85	91
+12342	Sally	Simon	GRADUATE	86	92	Advanced OOP
+12343	Mark	Matt	PHDCPSC		89	91	AI based Optimization	Mahmood
+12344	Cindy	James	UNDERGRAD	81	84
+12345	Adam	Ames	GRADUATE	77	81	Devops
+12346	Nora	Nunes	PHDCPSC		97	98	Reinforcement Learning	Dichter
+12347	Jim	Jones	UNDERGRAD	77	79

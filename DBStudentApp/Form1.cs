@@ -19,5 +19,15 @@ namespace DBStudentApp
             cmbCourses.ValueMember = "CourseNum";
             cmbCourses.Refresh();
         }
+
+        private void cmbCourses_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string courseNum = cmbCourses.SelectedValue.ToString();
+            //MessageBox.Show(courseNum);
+            IRepository irep = new Repository();
+            var EList = irep.GetEnrollment(courseNum);
+            dg1.DataSource = EList;
+            dg1.Refresh();
+        }
     }
 }

@@ -12,6 +12,7 @@ namespace DBStudentApp.DataLayer
     internal class Repository : IRepository //compose sql and send it to datalayer
     {
         IDataAccess _idac = new DataAccess();
+        //private DataTable dt;
 
         public List<Course> GetAllCourses()
         {
@@ -35,7 +36,31 @@ namespace DBStudentApp.DataLayer
 
         public List<Enrollment> GetEnrollment(string courseNum)
         {
-            throw new NotImplementedException();
+            List<Enrollment> eList = new List<Enrollment>();
+            try
+            {
+                string sql = "SELECT s.StudentId, s.FirstName, s.LastName, c.Credits " +
+                             "FROM Students s " +
+                             "JOIN Enrollments e ON s.StudentId = e.StudentId " +
+                             "JOIN Courses c ON e.CourseNum = c.CourseNum " +
+                             "WHERE c.CourseNum = '" + courseNum + "'"; ;
+
+                DataTable dt = _idac.GetManyRowsCols(sql); //datatable is mainly for repository class
+
+                foreach (DataRow dr in dt.Rows)
+                {
+                    Enrollment e = new Enrollment();
+                    e.StuedntId = (int)dr["StudentId"];
+                    e.FirstName = (string)dr["FirstName"];
+                    e.LastName = (string)dr["LastName"];
+                    e.Credits = (int)dr["Credits"];
+
+                    eList.Add(e);
+                }
+            }
+            catch (Exception ex) { throw; }
+            return eList;
+            
         }
     }
 }

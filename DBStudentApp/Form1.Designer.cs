@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             cmbCourses = new ComboBox();
-            dataGridView1 = new DataGridView();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            dg1 = new DataGridView();
+            ((System.ComponentModel.ISupportInitialize)dg1).BeginInit();
             SuspendLayout();
             // 
             // cmbCourses
@@ -40,34 +40,35 @@
             cmbCourses.Name = "cmbCourses";
             cmbCourses.Size = new Size(205, 28);
             cmbCourses.TabIndex = 1;
+            cmbCourses.SelectedIndexChanged += cmbCourses_SelectedIndexChanged;
             // 
-            // dataGridView1
+            // dg1
             // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(346, 12);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.RowTemplate.Height = 29;
-            dataGridView1.Size = new Size(516, 246);
-            dataGridView1.TabIndex = 2;
+            dg1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dg1.Location = new Point(346, 12);
+            dg1.Name = "dg1";
+            dg1.RowHeadersWidth = 51;
+            dg1.RowTemplate.Height = 29;
+            dg1.Size = new Size(516, 246);
+            dg1.TabIndex = 2;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(975, 346);
-            Controls.Add(dataGridView1);
+            Controls.Add(dg1);
             Controls.Add(cmbCourses);
             Name = "Form1";
             Text = "Student Form";
             Load += Form1_Load;
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dg1).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
 
         private ComboBox cmbCourses;
-        private DataGridView dataGridView1;
+        private DataGridView dg1;
     }
 }
