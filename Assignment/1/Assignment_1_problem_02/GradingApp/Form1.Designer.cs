@@ -28,12 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            btnProcessGrades = new Button();
+            SuspendLayout();
+            // 
+            // btnProcessGrades
+            // 
+            btnProcessGrades.Location = new Point(103, 100);
+            btnProcessGrades.Name = "btnProcessGrades";
+            btnProcessGrades.Size = new Size(301, 47);
+            btnProcessGrades.TabIndex = 0;
+            btnProcessGrades.Text = "Process Grades";
+            btnProcessGrades.UseVisualStyleBackColor = true;
+            btnProcessGrades.Click += btnProcessGrades_Click;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(533, 249);
+            Controls.Add(btnProcessGrades);
+            Name = "Form1";
+            Text = "Student Grade Processing";
+            Load += Form1_Load;
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private Button btnProcessGrades;
     }
 }
