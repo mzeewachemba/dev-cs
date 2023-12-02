@@ -1,0 +1,16 @@
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\bin\Debug\net7.0-windows\GraddingAppAssignment2.exe
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\bin\Debug\net7.0-windows\GraddingAppAssignment2.deps.json
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\bin\Debug\net7.0-windows\GraddingAppAssignment2.runtimeconfig.json
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\bin\Debug\net7.0-windows\GraddingAppAssignment2.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\bin\Debug\net7.0-windows\GraddingAppAssignment2.pdb
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.Form1.resources
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.csproj.GenerateResource.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.AssemblyInfoInputs.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.AssemblyInfo.cs
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.csproj.CoreCompileInputs.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\refint\GraddingAppAssignment2.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.pdb
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.genruntimeconfig.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\ref\GraddingAppAssignment2.dll
