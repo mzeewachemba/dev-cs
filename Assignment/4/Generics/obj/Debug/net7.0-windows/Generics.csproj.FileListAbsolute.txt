@@ -1,0 +1,16 @@
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\4\Generics\bin\Debug\net7.0-windows\Generics.exe
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\4\Generics\bin\Debug\net7.0-windows\Generics.deps.json
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\4\Generics\bin\Debug\net7.0-windows\Generics.runtimeconfig.json
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\4\Generics\bin\Debug\net7.0-windows\Generics.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\4\Generics\bin\Debug\net7.0-windows\Generics.pdb
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\4\Generics\obj\Debug\net7.0-windows\Generics.csproj.GenerateResource.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\4\Generics\obj\Debug\net7.0-windows\Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\4\Generics\obj\Debug\net7.0-windows\Generics.AssemblyInfoInputs.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\4\Generics\obj\Debug\net7.0-windows\Generics.AssemblyInfo.cs
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\4\Generics\obj\Debug\net7.0-windows\Generics.csproj.CoreCompileInputs.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\4\Generics\obj\Debug\net7.0-windows\Generics.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\4\Generics\obj\Debug\net7.0-windows\refint\Generics.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\4\Generics\obj\Debug\net7.0-windows\Generics.pdb
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\4\Generics\obj\Debug\net7.0-windows\Generics.genruntimeconfig.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\4\Generics\obj\Debug\net7.0-windows\ref\Generics.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\4\Generics\obj\Debug\net7.0-windows\Generics.Form1.resources
