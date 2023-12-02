@@ -32,6 +32,8 @@
             btnGenericClass = new Button();
             btnInitArray = new Button();
             btnFindMaxScoreStudent = new Button();
+            btnComparerGeneric = new Button();
+            btnDictionary = new Button();
             SuspendLayout();
             // 
             // btnExchange
@@ -74,11 +76,33 @@
             btnFindMaxScoreStudent.UseVisualStyleBackColor = true;
             btnFindMaxScoreStudent.Click += btnFindMaxScoreStudent_Click;
             // 
+            // btnComparerGeneric
+            // 
+            btnComparerGeneric.Location = new Point(45, 337);
+            btnComparerGeneric.Name = "btnComparerGeneric";
+            btnComparerGeneric.Size = new Size(226, 49);
+            btnComparerGeneric.TabIndex = 4;
+            btnComparerGeneric.Text = "Comparer Generic";
+            btnComparerGeneric.UseVisualStyleBackColor = true;
+            btnComparerGeneric.Click += btnComparerGeneric_Click;
+            // 
+            // btnDictionary
+            // 
+            btnDictionary.Location = new Point(45, 409);
+            btnDictionary.Name = "btnDictionary";
+            btnDictionary.Size = new Size(226, 50);
+            btnDictionary.TabIndex = 5;
+            btnDictionary.Text = "Dictionary";
+            btnDictionary.UseVisualStyleBackColor = true;
+            btnDictionary.Click += btnDictionary_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(800, 471);
+            Controls.Add(btnDictionary);
+            Controls.Add(btnComparerGeneric);
             Controls.Add(btnFindMaxScoreStudent);
             Controls.Add(btnInitArray);
             Controls.Add(btnGenericClass);
@@ -94,5 +118,7 @@
         private Button btnGenericClass;
         private Button btnInitArray;
         private Button btnFindMaxScoreStudent;
+        private Button btnComparerGeneric;
+        private Button btnDictionary;
     }
 }

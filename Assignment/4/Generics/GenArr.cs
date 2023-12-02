@@ -9,7 +9,7 @@ namespace Generics
     internal class GenArr<T>
     {
         public static T FindMax<T>(T[] Arr)
-            where T : IComparable
+            where T : IComparable<T>
         {
             T max = Arr[0];
             if (Arr[1].CompareTo(max) == 1)
