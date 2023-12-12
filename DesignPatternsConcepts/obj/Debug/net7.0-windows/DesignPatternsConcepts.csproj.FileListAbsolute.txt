@@ -14,3 +14,19 @@ E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\DesignPatternsConcepts\ob
 E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\DesignPatternsConcepts\obj\Debug\net7.0-windows\DesignPatternsConcepts.pdb
 E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\DesignPatternsConcepts\obj\Debug\net7.0-windows\DesignPatternsConcepts.genruntimeconfig.cache
 E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\DesignPatternsConcepts\obj\Debug\net7.0-windows\ref\DesignPatternsConcepts.dll
+D:\13.MSCS\dev-cs-main\DesignPatternsConcepts\bin\Debug\net7.0-windows\DesignPatternsConcepts.exe
+D:\13.MSCS\dev-cs-main\DesignPatternsConcepts\bin\Debug\net7.0-windows\DesignPatternsConcepts.deps.json
+D:\13.MSCS\dev-cs-main\DesignPatternsConcepts\bin\Debug\net7.0-windows\DesignPatternsConcepts.runtimeconfig.json
+D:\13.MSCS\dev-cs-main\DesignPatternsConcepts\bin\Debug\net7.0-windows\DesignPatternsConcepts.dll
+D:\13.MSCS\dev-cs-main\DesignPatternsConcepts\bin\Debug\net7.0-windows\DesignPatternsConcepts.pdb
+D:\13.MSCS\dev-cs-main\DesignPatternsConcepts\obj\Debug\net7.0-windows\DesignPatternsConcepts.Form1.resources
+D:\13.MSCS\dev-cs-main\DesignPatternsConcepts\obj\Debug\net7.0-windows\DesignPatternsConcepts.csproj.GenerateResource.cache
+D:\13.MSCS\dev-cs-main\DesignPatternsConcepts\obj\Debug\net7.0-windows\DesignPatternsConcepts.GeneratedMSBuildEditorConfig.editorconfig
+D:\13.MSCS\dev-cs-main\DesignPatternsConcepts\obj\Debug\net7.0-windows\DesignPatternsConcepts.AssemblyInfoInputs.cache
+D:\13.MSCS\dev-cs-main\DesignPatternsConcepts\obj\Debug\net7.0-windows\DesignPatternsConcepts.AssemblyInfo.cs
+D:\13.MSCS\dev-cs-main\DesignPatternsConcepts\obj\Debug\net7.0-windows\DesignPatternsConcepts.csproj.CoreCompileInputs.cache
+D:\13.MSCS\dev-cs-main\DesignPatternsConcepts\obj\Debug\net7.0-windows\DesignPatternsConcepts.dll
+D:\13.MSCS\dev-cs-main\DesignPatternsConcepts\obj\Debug\net7.0-windows\refint\DesignPatternsConcepts.dll
+D:\13.MSCS\dev-cs-main\DesignPatternsConcepts\obj\Debug\net7.0-windows\DesignPatternsConcepts.pdb
+D:\13.MSCS\dev-cs-main\DesignPatternsConcepts\obj\Debug\net7.0-windows\DesignPatternsConcepts.genruntimeconfig.cache
+D:\13.MSCS\dev-cs-main\DesignPatternsConcepts\obj\Debug\net7.0-windows\ref\DesignPatternsConcepts.dll

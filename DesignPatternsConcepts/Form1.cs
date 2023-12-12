@@ -22,5 +22,15 @@ namespace DesignPatternsConcepts
             double res = icomp.ComputeCircleArea(5);
             MessageBox.Show(res.ToString());
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Student s1 = new Student(null);
+            s1.Test1 = 85;
+            MessageBox.Show(s1.Test1.ToString());
+            Student s2 = (Student)s1.Clone();
+            s1.Test1 = 91;
+            MessageBox.Show(s2.Test1.ToString());
+        }
     }
 }
