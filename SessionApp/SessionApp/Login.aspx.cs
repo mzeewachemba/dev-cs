@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SessionApp.Utils;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -24,7 +25,8 @@ namespace SessionApp
             if ((uname == "bill") && (password == "bill100")){
                 lblStatus.Text = "welcome " + uname;
                 //create session only if its a successful login
-                Session["LOGGEDIN"] = uname;
+                //Session["LOGGEDIN"] = uname;
+                SessionFacade.LOGGEDIN = uname;
             }
 
             else
