@@ -31,6 +31,7 @@
             btnTest = new Button();
             btnTestFactory = new Button();
             button1 = new Button();
+            btnTestAdaptor = new Button();
             SuspendLayout();
             // 
             // btnTest
@@ -63,11 +64,22 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // btnTestAdaptor
+            // 
+            btnTestAdaptor.Location = new Point(58, 347);
+            btnTestAdaptor.Name = "btnTestAdaptor";
+            btnTestAdaptor.Size = new Size(244, 48);
+            btnTestAdaptor.TabIndex = 3;
+            btnTestAdaptor.Text = "Test Adaptor";
+            btnTestAdaptor.UseVisualStyleBackColor = true;
+            btnTestAdaptor.Click += btnTestAdaptor_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(366, 450);
+            Controls.Add(btnTestAdaptor);
             Controls.Add(button1);
             Controls.Add(btnTestFactory);
             Controls.Add(btnTest);
@@ -81,5 +93,6 @@
         private Button btnTest;
         private Button btnTestFactory;
         private Button button1;
+        private Button btnTestAdaptor;
     }
 }

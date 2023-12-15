@@ -1,0 +1,10 @@
+D:\13.MSCS\repo_\dev-cs\AdapterBridge\bin\Debug\AdapterBridge.exe.config
+D:\13.MSCS\repo_\dev-cs\AdapterBridge\bin\Debug\AdapterBridge.exe
+D:\13.MSCS\repo_\dev-cs\AdapterBridge\bin\Debug\AdapterBridge.pdb
+D:\13.MSCS\repo_\dev-cs\AdapterBridge\obj\Debug\AdapterBridge.csproj.AssemblyReference.cache
+D:\13.MSCS\repo_\dev-cs\AdapterBridge\obj\Debug\AdapterBridge.Form1.resources
+D:\13.MSCS\repo_\dev-cs\AdapterBridge\obj\Debug\AdapterBridge.Properties.Resources.resources
+D:\13.MSCS\repo_\dev-cs\AdapterBridge\obj\Debug\AdapterBridge.csproj.GenerateResource.cache
+D:\13.MSCS\repo_\dev-cs\AdapterBridge\obj\Debug\AdapterBridge.csproj.CoreCompileInputs.cache
+D:\13.MSCS\repo_\dev-cs\AdapterBridge\obj\Debug\AdapterBridge.exe
+D:\13.MSCS\repo_\dev-cs\AdapterBridge\obj\Debug\AdapterBridge.pdb

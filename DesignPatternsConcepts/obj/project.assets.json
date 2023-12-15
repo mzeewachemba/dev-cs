@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\13.MSCS\\dev-cs-main\\DesignPatternsConcepts\\DesignPatternsConcepts.csproj",
+      "projectUniqueName": "D:\\13.MSCS\\repo_\\dev-cs\\DesignPatternsConcepts\\DesignPatternsConcepts.csproj",
       "projectName": "DesignPatternsConcepts",
-      "projectPath": "D:\\13.MSCS\\dev-cs-main\\DesignPatternsConcepts\\DesignPatternsConcepts.csproj",
+      "projectPath": "D:\\13.MSCS\\repo_\\dev-cs\\DesignPatternsConcepts\\DesignPatternsConcepts.csproj",
       "packagesPath": "C:\\Users\\allen\\.nuget\\packages\\",
-      "outputPath": "D:\\13.MSCS\\dev-cs-main\\DesignPatternsConcepts\\obj\\",
+      "outputPath": "D:\\13.MSCS\\repo_\\dev-cs\\DesignPatternsConcepts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

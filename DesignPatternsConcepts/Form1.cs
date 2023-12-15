@@ -32,5 +32,14 @@ namespace DesignPatternsConcepts
             s1.Test1 = 91;
             MessageBox.Show(s2.Test1.ToString());
         }
+
+        private void btnTestAdaptor_Click(object sender, EventArgs e)
+        {
+            //caller calls the existing code via the new interface
+            IComputeNew icomp = new ComputeNew();
+            double[] data = { 5, 8, 9.2 };
+            double res = icomp.ComputeAvg(data);
+            MessageBox.Show("Result =  " + res.ToString());
+        }
     }
 }
