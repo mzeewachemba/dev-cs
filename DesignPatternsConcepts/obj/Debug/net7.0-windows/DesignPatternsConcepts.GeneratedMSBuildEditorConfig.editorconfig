@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DesignPatternsConcepts
-build_property.ProjectDir = D:\13.MSCS\dev-cs-main\DesignPatternsConcepts\
+build_property.ProjectDir = D:\13.MSCS\repo_\dev-cs\DesignPatternsConcepts\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
