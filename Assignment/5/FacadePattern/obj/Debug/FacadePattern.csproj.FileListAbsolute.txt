@@ -1,0 +1,10 @@
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FacadePattern\bin\Debug\FacadePattern.exe.config
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FacadePattern\bin\Debug\FacadePattern.exe
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FacadePattern\bin\Debug\FacadePattern.pdb
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FacadePattern\obj\Debug\FacadePattern.csproj.AssemblyReference.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FacadePattern\obj\Debug\FacadePattern.fmMortgage1.resources
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FacadePattern\obj\Debug\FacadePattern.Properties.Resources.resources
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FacadePattern\obj\Debug\FacadePattern.csproj.GenerateResource.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FacadePattern\obj\Debug\FacadePattern.csproj.CoreCompileInputs.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FacadePattern\obj\Debug\FacadePattern.exe
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FacadePattern\obj\Debug\FacadePattern.pdb
