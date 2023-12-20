@@ -1,0 +1,10 @@
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FactoryPattern\bin\Debug\FactoryPattern.exe
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FactoryPattern\bin\Debug\FactoryPattern.pdb
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FactoryPattern\obj\Debug\FactoryPattern.csproj.AssemblyReference.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FactoryPattern\obj\Debug\FactoryPattern.fmWeather.resources
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FactoryPattern\obj\Debug\FactoryPattern.Properties.Resources.resources
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FactoryPattern\obj\Debug\FactoryPattern.csproj.GenerateResource.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FactoryPattern\obj\Debug\FactoryPattern.exe
+D:\13.MSCS\repo__\dev-cs\Assignment\5\FactoryPattern\obj\Debug\FactoryPattern.pdb

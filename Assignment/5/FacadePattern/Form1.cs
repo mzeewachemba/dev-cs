@@ -31,7 +31,11 @@ namespace FacadePattern
             };
 
             //enhacing form class
-            MortgageFacade mf = new MortgageFacade();
+            //using non singleton object
+            //MortgageFacade mf = new MortgageFacade();
+
+            //using singleton object, without new keyword
+            MortgageFacadeSingleton mf = MortgageFacadeSingleton.Instance;
             bool approved = mf.MortgageApproval(mapp,ref reason);
             if (approved == true)
                 MessageBox.Show("Your application has been approved..");
