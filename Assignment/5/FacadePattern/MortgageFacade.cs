@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FacadePattern
 {
-    internal class MortgageFacade
+    class MortgageFacade
     {
         Bank bk = new Bank();
         Loan ln = new Loan();

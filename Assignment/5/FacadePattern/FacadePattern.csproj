@@ -57,6 +57,7 @@
     </Compile>
     <Compile Include="Loan.cs" />
     <Compile Include="MortgageApplicant.cs" />
+    <Compile Include="MortgageFacadeSingleton.cs" />
     <Compile Include="MortgageFacade.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
