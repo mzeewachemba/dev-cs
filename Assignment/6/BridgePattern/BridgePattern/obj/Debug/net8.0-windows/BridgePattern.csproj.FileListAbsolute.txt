@@ -1,0 +1,17 @@
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\6\BridgePattern\BridgePattern\bin\Debug\net8.0-windows\BridgePattern.exe
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\6\BridgePattern\BridgePattern\bin\Debug\net8.0-windows\BridgePattern.deps.json
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\6\BridgePattern\BridgePattern\bin\Debug\net8.0-windows\BridgePattern.runtimeconfig.json
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\6\BridgePattern\BridgePattern\bin\Debug\net8.0-windows\BridgePattern.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\6\BridgePattern\BridgePattern\bin\Debug\net8.0-windows\BridgePattern.pdb
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\6\BridgePattern\BridgePattern\obj\Debug\net8.0-windows\BridgePattern.Form1.resources
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\6\BridgePattern\BridgePattern\obj\Debug\net8.0-windows\BridgePattern.csproj.GenerateResource.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\6\BridgePattern\BridgePattern\obj\Debug\net8.0-windows\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\6\BridgePattern\BridgePattern\obj\Debug\net8.0-windows\BridgePattern.AssemblyInfoInputs.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\6\BridgePattern\BridgePattern\obj\Debug\net8.0-windows\BridgePattern.AssemblyInfo.cs
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\6\BridgePattern\BridgePattern\obj\Debug\net8.0-windows\BridgePattern.csproj.CoreCompileInputs.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\6\BridgePattern\BridgePattern\obj\Debug\net8.0-windows\BridgePattern.sourcelink.json
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\6\BridgePattern\BridgePattern\obj\Debug\net8.0-windows\BridgePattern.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\6\BridgePattern\BridgePattern\obj\Debug\net8.0-windows\refint\BridgePattern.dll
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\6\BridgePattern\BridgePattern\obj\Debug\net8.0-windows\BridgePattern.pdb
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\6\BridgePattern\BridgePattern\obj\Debug\net8.0-windows\BridgePattern.genruntimeconfig.cache
+E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\6\BridgePattern\BridgePattern\obj\Debug\net8.0-windows\ref\BridgePattern.dll
