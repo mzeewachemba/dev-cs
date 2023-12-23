@@ -1,0 +1,17 @@
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\bin\Debug\net8.0-windows\ProxyPattern.exe
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\bin\Debug\net8.0-windows\ProxyPattern.deps.json
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\bin\Debug\net8.0-windows\ProxyPattern.runtimeconfig.json
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\bin\Debug\net8.0-windows\ProxyPattern.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\bin\Debug\net8.0-windows\ProxyPattern.pdb
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\obj\Debug\net8.0-windows\ProxyPattern.Form1.resources
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\obj\Debug\net8.0-windows\ProxyPattern.csproj.GenerateResource.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\obj\Debug\net8.0-windows\ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\obj\Debug\net8.0-windows\ProxyPattern.AssemblyInfoInputs.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\obj\Debug\net8.0-windows\ProxyPattern.AssemblyInfo.cs
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\obj\Debug\net8.0-windows\ProxyPattern.csproj.CoreCompileInputs.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\obj\Debug\net8.0-windows\ProxyPattern.sourcelink.json
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\obj\Debug\net8.0-windows\ProxyPattern.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\obj\Debug\net8.0-windows\refint\ProxyPattern.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\obj\Debug\net8.0-windows\ProxyPattern.pdb
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\obj\Debug\net8.0-windows\ProxyPattern.genruntimeconfig.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\obj\Debug\net8.0-windows\ref\ProxyPattern.dll
