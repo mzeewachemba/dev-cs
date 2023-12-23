@@ -1,0 +1,17 @@
+D:\13.MSCS\repo__\dev-cs\Assignment\8\StrategyPattern\bin\Debug\net8.0-windows\StrategyPattern.exe
+D:\13.MSCS\repo__\dev-cs\Assignment\8\StrategyPattern\bin\Debug\net8.0-windows\StrategyPattern.deps.json
+D:\13.MSCS\repo__\dev-cs\Assignment\8\StrategyPattern\bin\Debug\net8.0-windows\StrategyPattern.runtimeconfig.json
+D:\13.MSCS\repo__\dev-cs\Assignment\8\StrategyPattern\bin\Debug\net8.0-windows\StrategyPattern.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\8\StrategyPattern\bin\Debug\net8.0-windows\StrategyPattern.pdb
+D:\13.MSCS\repo__\dev-cs\Assignment\8\StrategyPattern\obj\Debug\net8.0-windows\StrategyPattern.Form1.resources
+D:\13.MSCS\repo__\dev-cs\Assignment\8\StrategyPattern\obj\Debug\net8.0-windows\StrategyPattern.csproj.GenerateResource.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\8\StrategyPattern\obj\Debug\net8.0-windows\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\13.MSCS\repo__\dev-cs\Assignment\8\StrategyPattern\obj\Debug\net8.0-windows\StrategyPattern.AssemblyInfoInputs.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\8\StrategyPattern\obj\Debug\net8.0-windows\StrategyPattern.AssemblyInfo.cs
+D:\13.MSCS\repo__\dev-cs\Assignment\8\StrategyPattern\obj\Debug\net8.0-windows\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\8\StrategyPattern\obj\Debug\net8.0-windows\StrategyPattern.sourcelink.json
+D:\13.MSCS\repo__\dev-cs\Assignment\8\StrategyPattern\obj\Debug\net8.0-windows\StrategyPattern.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\8\StrategyPattern\obj\Debug\net8.0-windows\refint\StrategyPattern.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\8\StrategyPattern\obj\Debug\net8.0-windows\StrategyPattern.pdb
+D:\13.MSCS\repo__\dev-cs\Assignment\8\StrategyPattern\obj\Debug\net8.0-windows\StrategyPattern.genruntimeconfig.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\8\StrategyPattern\obj\Debug\net8.0-windows\ref\StrategyPattern.dll
