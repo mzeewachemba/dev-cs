@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace TemplatePattern
 {
+    //read from file
     internal class StudentProcessingViaFile : TemplateStudent
     {
         string inFileName = "";
