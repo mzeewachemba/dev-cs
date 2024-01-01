@@ -70,6 +70,7 @@ namespace GradingApp
                             st = new PhdStudent(int.Parse(parts[0]), parts[1],
                             parts[2], int.Parse(parts[4]), int.Parse(parts[5]),
                            parts[6], parts[7]);
+                            Console.WriteLine("PHD " + st.ToString());
                         }
                     }
                     if (st != null)

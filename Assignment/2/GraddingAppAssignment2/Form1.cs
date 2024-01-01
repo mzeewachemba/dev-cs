@@ -13,8 +13,8 @@ namespace GraddingAppAssignment2
         {
             try
             {
-                string inputFile = "E:/CPSC501/data_2/StudentData.txt";
-                string outputFile = "E:/CPSC501/data_2/StudentGrades.txt";
+                string inputFile = "F:/CPSC501/data_2/StudentData.txt";
+                string outputFile = "F:/CPSC501/data_2/StudentGrades.txt";
                 ProcessGrades pg = new ProcessGrades();
                 pg.ReadStudentData(inputFile);
                 pg.ProcessAndWriteGrades(outputFile);

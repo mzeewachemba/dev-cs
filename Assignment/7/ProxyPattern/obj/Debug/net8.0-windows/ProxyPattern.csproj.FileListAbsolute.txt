@@ -15,3 +15,11 @@ D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\obj\Debug\net8.0-windows\refi
 D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\obj\Debug\net8.0-windows\ProxyPattern.pdb
 D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\obj\Debug\net8.0-windows\ProxyPattern.genruntimeconfig.cache
 D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\obj\Debug\net8.0-windows\ref\ProxyPattern.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\obj\Debug\net8.0-windows\ProxyPattern.csproj.AssemblyReference.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\7\ProxyPattern\obj\Debug\net8.0-windows\ProxyPattern.csproj.CopyComplete

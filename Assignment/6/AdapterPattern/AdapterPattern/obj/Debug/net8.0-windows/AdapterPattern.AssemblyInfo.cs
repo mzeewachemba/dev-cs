@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdapterPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29ce86b65f487ef936693a69963134d135221c8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdapterPattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdapterPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

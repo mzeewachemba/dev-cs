@@ -1,0 +1,15 @@
+C#
+-Method names start upper case
+-IComparable is used to compare to objects
+-Keyword base is used to delegate varaiable initialization in a child class to the base class
+-UI based assignment the entry point was a form, form1.cs
+-Uses : to extend and implement classes and intefaces respectively
+-uses properties to set getters and setters
+
+Java
+-Method names start lower case
+-Comparable interface is used to compare two objects
+-Keyword super is used to delegate varaiable initialization in a child class to the base class
+-Java has a main method,used as an entry point for the program to run
+-Uses extends and implements keysord to extend and implement classes and intefaces respectively
+-do not use variable properties in  a class

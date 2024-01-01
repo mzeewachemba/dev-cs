@@ -14,3 +14,20 @@ E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\Abstraction\
 E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\Abstraction\obj\Debug\net7.0-windows\Abstraction.pdb
 E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\Abstraction\obj\Debug\net7.0-windows\Abstraction.genruntimeconfig.cache
 E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\Abstraction\obj\Debug\net7.0-windows\ref\Abstraction.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\2\Abstraction\bin\Debug\net7.0-windows\Abstraction.exe
+D:\13.MSCS\repo__\dev-cs\Assignment\2\Abstraction\bin\Debug\net7.0-windows\Abstraction.deps.json
+D:\13.MSCS\repo__\dev-cs\Assignment\2\Abstraction\bin\Debug\net7.0-windows\Abstraction.runtimeconfig.json
+D:\13.MSCS\repo__\dev-cs\Assignment\2\Abstraction\bin\Debug\net7.0-windows\Abstraction.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\2\Abstraction\bin\Debug\net7.0-windows\Abstraction.pdb
+D:\13.MSCS\repo__\dev-cs\Assignment\2\Abstraction\obj\Debug\net7.0-windows\Abstraction.Form1.resources
+D:\13.MSCS\repo__\dev-cs\Assignment\2\Abstraction\obj\Debug\net7.0-windows\Abstraction.csproj.GenerateResource.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\2\Abstraction\obj\Debug\net7.0-windows\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\13.MSCS\repo__\dev-cs\Assignment\2\Abstraction\obj\Debug\net7.0-windows\Abstraction.AssemblyInfoInputs.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\2\Abstraction\obj\Debug\net7.0-windows\Abstraction.AssemblyInfo.cs
+D:\13.MSCS\repo__\dev-cs\Assignment\2\Abstraction\obj\Debug\net7.0-windows\Abstraction.csproj.CoreCompileInputs.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\2\Abstraction\obj\Debug\net7.0-windows\Abstraction.sourcelink.json
+D:\13.MSCS\repo__\dev-cs\Assignment\2\Abstraction\obj\Debug\net7.0-windows\Abstraction.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\2\Abstraction\obj\Debug\net7.0-windows\refint\Abstraction.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\2\Abstraction\obj\Debug\net7.0-windows\Abstraction.pdb
+D:\13.MSCS\repo__\dev-cs\Assignment\2\Abstraction\obj\Debug\net7.0-windows\Abstraction.genruntimeconfig.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\2\Abstraction\obj\Debug\net7.0-windows\ref\Abstraction.dll

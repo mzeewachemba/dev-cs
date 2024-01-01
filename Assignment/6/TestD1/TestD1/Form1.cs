@@ -1,4 +1,3 @@
-using Org.BouncyCastle.Crypto;
 using System.Data;
 using TestD1.DataLayer;
 
@@ -7,8 +6,8 @@ namespace TestD1
     public partial class Form1 : Form
     {
         //SWITCHING IMPLEMENTATION
-        //IDataAccess idac = new BridgeDataAccess(new DataAccessMySql());
-        IDataAccess idac = new BridgeDataAccess(new DataAccess());
+        IDataAccess idac = new BridgeDataAccess(new DataAccessMySql());
+        //IDataAccess idac = new BridgeDataAccess(new DataAccess());
         public Form1()
         {
             InitializeComponent();
