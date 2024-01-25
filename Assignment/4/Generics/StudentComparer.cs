@@ -7,7 +7,7 @@ using static Generics.MyEnums;
 
 namespace Generics
 {
-    internal class StudentComparer : IComparer<Student>
+    internal class StudentComparer : IComparer<Student> //passes student
     {
         SORTFIELD sortField = SORTFIELD.ID;
         public SORTFIELD SortField
@@ -22,7 +22,7 @@ namespace Generics
             set { sortDir = value; }
         }
         #region IComparer<Student> Members
-        public int Compare(Student x, Student y)
+        public int Compare(Student x, Student y) //camparing two objects
         {
             int res = x.CompareTo(y, sortField);
             if (sortDir == SORTDIR.DESC)

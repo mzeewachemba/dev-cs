@@ -23,3 +23,29 @@ E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\3\DBStudentApp
 E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\3\DBStudentApp_1174066\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\3\DBStudentApp_1174066\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\3\DBStudentApp_1174066\obj\Debug\net7.0-windows\DBStudentApp_1174066.csproj.CopyComplete
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\bin\Debug\net7.0-windows\DBStudentApp_1174066.exe
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\bin\Debug\net7.0-windows\DBStudentApp_1174066.dll.config
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\bin\Debug\net7.0-windows\DBStudentApp_1174066.deps.json
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\bin\Debug\net7.0-windows\DBStudentApp_1174066.runtimeconfig.json
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\bin\Debug\net7.0-windows\DBStudentApp_1174066.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\bin\Debug\net7.0-windows\DBStudentApp_1174066.pdb
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\obj\Debug\net7.0-windows\DBStudentApp_1174066.csproj.AssemblyReference.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\obj\Debug\net7.0-windows\DBStudentApp_1174066.fmStudent.resources
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\obj\Debug\net7.0-windows\DBStudentApp_1174066.csproj.GenerateResource.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\obj\Debug\net7.0-windows\DBStudentApp_1174066.GeneratedMSBuildEditorConfig.editorconfig
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\obj\Debug\net7.0-windows\DBStudentApp_1174066.AssemblyInfoInputs.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\obj\Debug\net7.0-windows\DBStudentApp_1174066.AssemblyInfo.cs
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\obj\Debug\net7.0-windows\DBStudentApp_1174066.csproj.CoreCompileInputs.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\obj\Debug\net7.0-windows\DBStudentApp_1174066.sourcelink.json
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\obj\Debug\net7.0-windows\DBStudentApp_1174066.csproj.CopyComplete
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\obj\Debug\net7.0-windows\DBStudentApp_1174066.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\obj\Debug\net7.0-windows\refint\DBStudentApp_1174066.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\obj\Debug\net7.0-windows\DBStudentApp_1174066.pdb
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\obj\Debug\net7.0-windows\DBStudentApp_1174066.genruntimeconfig.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\obj\Debug\net7.0-windows\ref\DBStudentApp_1174066.dll

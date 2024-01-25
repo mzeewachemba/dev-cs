@@ -39,7 +39,7 @@ namespace StatePattern
         {
             get { return balance; }
         }
-        //----------ICheckingActivity methods---------
+        //methods for checking account
         public void WithDrawMoney(double amt)
         {
             state.WithDrawMoney(amt);

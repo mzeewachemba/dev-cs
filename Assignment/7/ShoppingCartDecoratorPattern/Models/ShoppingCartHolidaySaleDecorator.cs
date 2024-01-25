@@ -7,7 +7,7 @@ namespace ShoppingCartDecoratorPattern.Models
 {
     //for 10% off of holiday sale
     public class ShoppingCartHolidaySaleDecorator : ShoppingCartBaseDecorator
-    {// aggregation and a call base class construct[or
+    {// aggregation and a call base class construct-delegating
         public ShoppingCartHolidaySaleDecorator(IShoppingCart shoppingCart) : base(shoppingCart) 
         {
         }

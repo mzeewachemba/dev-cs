@@ -14,3 +14,20 @@ E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppA
 E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.pdb
 E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.genruntimeconfig.cache
 E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\ref\GraddingAppAssignment2.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\2\GraddingAppAssignment2\bin\Debug\net7.0-windows\GraddingAppAssignment2.exe
+D:\13.MSCS\repo__\dev-cs\Assignment\2\GraddingAppAssignment2\bin\Debug\net7.0-windows\GraddingAppAssignment2.deps.json
+D:\13.MSCS\repo__\dev-cs\Assignment\2\GraddingAppAssignment2\bin\Debug\net7.0-windows\GraddingAppAssignment2.runtimeconfig.json
+D:\13.MSCS\repo__\dev-cs\Assignment\2\GraddingAppAssignment2\bin\Debug\net7.0-windows\GraddingAppAssignment2.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\2\GraddingAppAssignment2\bin\Debug\net7.0-windows\GraddingAppAssignment2.pdb
+D:\13.MSCS\repo__\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.Form1.resources
+D:\13.MSCS\repo__\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.csproj.GenerateResource.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\13.MSCS\repo__\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.AssemblyInfoInputs.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.AssemblyInfo.cs
+D:\13.MSCS\repo__\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.csproj.CoreCompileInputs.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.sourcelink.json
+D:\13.MSCS\repo__\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\refint\GraddingAppAssignment2.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.pdb
+D:\13.MSCS\repo__\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\GraddingAppAssignment2.genruntimeconfig.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\2\GraddingAppAssignment2\obj\Debug\net7.0-windows\ref\GraddingAppAssignment2.dll

@@ -13,7 +13,7 @@ namespace StudentApp
             {
                 Student s1 = new Student();
                 s1.Id = 1234;
-                s1.Test1 = 85;
+                s1.Test1 = 89;
                 s1.Test2 = 91;
                 string grade = s1.ComputeGrade();
                 MessageBox.Show(grade);
@@ -26,7 +26,10 @@ namespace StudentApp
                 string grade2 = s2.ComputeGrade();
                 MessageBox.Show(grade2);
             }
-            catch (Exception ex) { MessageBox.Show(ex.Message); }
+            catch (Exception ex) 
+            { 
+                MessageBox.Show(ex.Message); 
+            }
         }
 
         private void btnTestGrad_Click(object sender, EventArgs e)
@@ -40,7 +43,7 @@ namespace StudentApp
 
         private void btnPoly_Click(object sender, EventArgs e)
         {
-            Student st = new GradStudent(); //polymorphism
+            Student st = new GradStudent(); //polymorphism a derived class can be of type base class
             st.Test1 = 89;
             st.Test2 = 91;
             string grade = st.ComputeGrade();
@@ -49,6 +52,9 @@ namespace StudentApp
             //string greeting = st.Greet(); 
             //because st is of student type/student class and doesnt have greet in it
             Type tp = st.GetType();
+            
+            //Accessing greeting from student directly fails because the type is Student class
+            //st.Greeting()
 
             //type cast student type object into gradstudent
             if (tp.Name == "GradStudent")

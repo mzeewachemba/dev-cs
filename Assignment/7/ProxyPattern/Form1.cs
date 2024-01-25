@@ -17,6 +17,7 @@ namespace ProxyPattern
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //put images into their respective cateories and add them to the list
             cmbPictures.Items.Clear();
             string picfolder = @"D:\13.MSCS\repo__\dev-cs\Assignment\7\MyImages\Images";
             //retrieve information of images directory
@@ -34,15 +35,14 @@ namespace ProxyPattern
             di = new DirectoryInfo(picfolder);
             foreach (FileInfo fi in di.GetFiles())
             {
-                SubjectMyImage smi = new
-               SubjectMyImage(fi.FullName, fi.Name, "Mountains");
+                SubjectMyImage smi = new SubjectMyImage(fi.FullName, fi.Name, "Mountains");
                 //populate the list with the images from the folder
                 PList.Add(smi);
                 //add items to combobox
                 cmbPictures.Items.Add(smi.ShortName);
             }
         }
-
+        //loop through images to populate category and names
         private void cmbPictures_SelectedIndexChanged(object sender, EventArgs e)
         {
             btnShowImage.Enabled = true;
@@ -57,8 +57,8 @@ namespace ProxyPattern
                 }
             }
         }
-
-        private void btnShowImage_Click(object sender, EventArgs e)
+        //loop theough images to load image to the page and populate size
+        private void btnShowImage_Click(object sender, EventArgs e) //calls the expensive operations only when btnShowImage is clicked
         {
             string sname = cmbPictures.Text;
             foreach (SubjectMyImage smi in PList)
@@ -79,7 +79,7 @@ namespace ProxyPattern
             try
             {
                 ProtectionProxy prp = new ProtectionProxy();
-                bool res = prp.Authenticate("secret");
+                bool res = prp.Authenticate("secret"); //authenticate using secret password
                 string sql = "select ProductName from Products where " + "ProductId=1001";
                 object obj = prp.GetSingleAnswer(sql);
                 if (obj != null)

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ObserverPattern
 {
-    internal class ConcreteObserver : IObserver
+    internal class ConcreteObserver : IObserver //concrete observer implmenting IObserver
     {
         public ConcreteObserver(string nm)
         {

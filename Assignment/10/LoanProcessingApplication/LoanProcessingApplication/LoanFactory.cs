@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AbstractFactoryPattern
 {
-    abstract class LoanFactory
+    abstract class LoanFactory //base for all concrete factory classes
     {
         //each method returns an interface
         public abstract ICreditCheck CreateCreditCheck();

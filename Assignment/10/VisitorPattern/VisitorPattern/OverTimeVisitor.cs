@@ -14,8 +14,7 @@ namespace VisitorPattern
             Employee2 emp2 = element as Employee2;
             float overTime = 0;
             if (emp2.HoursWorked > 40)
-                overTime = (float)((emp2.HoursWorked - 40) * emp2.PayRate *
-               1.5);
+                overTime = (float)((emp2.HoursWorked - 40) * emp2.PayRate * 1.5);
             return overTime;
         }
         #endregion

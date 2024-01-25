@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace AdapterPattern
 {
-    internal interface INewMath //interface for existing code in the adaptee class, similar methods
+    internal interface INewMath //interface that will extend existing code-additional behavior can be added here
     {
         double ComputeAvgNew(double[] Arr);
-        //additional behaviour
+        //additional behaviour-below method
         int ComputeAvgRound(double[] Arr);
         double FindMinNew(double[] Arr);
     }

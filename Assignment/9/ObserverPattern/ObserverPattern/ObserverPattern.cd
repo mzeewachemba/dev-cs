@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ObserverPattern.Form1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAIACAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObserverPattern.StockInfo" Collapsed="true">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAAAAAQAAAAAEAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>StockInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObserverPattern.ConcreteObserver" Collapsed="true">
+    <Position X="3.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteObserver.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ObserverPattern.StockSubject" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAhAAAAAAAAAAAAAAAAAAAACAAABAAAAAAA=</HashCode>
+      <FileName>StockSubject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObserverPattern.ConcreteSubjectGoog" Collapsed="true">
+    <Position X="6.75" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteSubjectGoog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ObserverPattern.IObserver" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Iobserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

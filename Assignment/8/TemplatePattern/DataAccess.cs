@@ -10,7 +10,7 @@ namespace TemplatePattern
 {
     internal class DataAccess
     {
-        static string connStr = "server=DESKTOP-Q1L8NT0\\SQLEXPRESS;integrated security=true;database=XYZDB";
+        static string connStr = "server=Work-Horse\\SQLEXPRESS;integrated security=true;database=XYZDB";
         public static object GetSingleAnswer(string sql)
         {
             object res = null;

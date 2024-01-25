@@ -12,7 +12,7 @@ namespace VisitorPattern
         public void Visit(Element element)
         {
             Employee emp = element as Employee;
-            emp.Bonus = emp.Bonus * 1.10;
+            emp.Bonus = emp.Bonus * 1.10; //adding behavior to bonus
         }
         #endregion
     }

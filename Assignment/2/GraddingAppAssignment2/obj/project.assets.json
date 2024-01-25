@@ -8,30 +8,32 @@
     "net7.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\allen.000\\.nuget\\packages\\": {},
+    "C:\\Users\\allen\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\2.Online MS CS\\2nd Year\\1st Semester\\CPSC501\\dev-cs\\Assignment\\2\\GraddingAppAssignment2\\GraddingAppAssignment2.csproj",
+      "projectUniqueName": "D:\\13.MSCS\\repo__\\dev-cs\\Assignment\\2\\GraddingAppAssignment2\\GraddingAppAssignment2.csproj",
       "projectName": "GraddingAppAssignment2",
-      "projectPath": "E:\\2.Online MS CS\\2nd Year\\1st Semester\\CPSC501\\dev-cs\\Assignment\\2\\GraddingAppAssignment2\\GraddingAppAssignment2.csproj",
-      "packagesPath": "C:\\Users\\allen.000\\.nuget\\packages\\",
-      "outputPath": "E:\\2.Online MS CS\\2nd Year\\1st Semester\\CPSC501\\dev-cs\\Assignment\\2\\GraddingAppAssignment2\\obj\\",
+      "projectPath": "D:\\13.MSCS\\repo__\\dev-cs\\Assignment\\2\\GraddingAppAssignment2\\GraddingAppAssignment2.csproj",
+      "packagesPath": "C:\\Users\\allen\\.nuget\\packages\\",
+      "outputPath": "D:\\13.MSCS\\repo__\\dev-cs\\Assignment\\2\\GraddingAppAssignment2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\allen.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "D:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        "C:\\Users\\allen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0-windows"
       ],
       "sources": {
-        "D:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -68,7 +70,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

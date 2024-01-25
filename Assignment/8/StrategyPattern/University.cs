@@ -9,6 +9,7 @@ namespace StrategyPattern
     internal class University //maintains a list of student
     {
         private IStrategySort<Student> _sortStrategy;
+        //this property allows to define which strategy we are going to use
         internal IStrategySort<Student> SortStrategy
         {
             get { return _sortStrategy; }

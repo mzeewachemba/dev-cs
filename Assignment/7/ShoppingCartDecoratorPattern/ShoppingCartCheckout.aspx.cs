@@ -46,17 +46,23 @@ namespace ShoppingCartDecoratorPattern
                 Quantity = int.Parse(txtQt3.Text)
             };
             CartList.Add(row3);
-            IShoppingCart cart = new ShoppingCart();
+            //using the concrete class to calculate total before discount
+            IShoppingCart cart = new ShoppingCart(); 
             cart.CartList = CartList;
             //modifying prices
             lblTotal1.Text = (int.Parse(txtQt1.Text) * 799.95).ToString();
             lblTotal2.Text = (int.Parse(txtQt2.Text) * 89.95).ToString();
             lblTotal3.Text = (int.Parse(txtQt3.Text) * 39.90).ToString();
 
-            //calling on decorators
-            var decorator = new ShoppingCartHolidaySaleDecorator(
-            new ShoppingCartFirstTimeCustomerDecorator(
-            new ShoppingCartGT500Decorator(cart)));
+
+            //calling on decorators by combining them together-chain of decorators
+            //var decorator = new ShoppingCartHolidaySaleDecorator(new ShoppingCartFirstTimeCustomerDecorator(new ShoppingCartGT500Decorator(cart)));
+            
+            //applying holiday and GT500 Decorators
+            var decorator = new ShoppingCartHolidaySaleDecorator(new ShoppingCartGT500Decorator(cart));
+
+            //applying new customer Decorator
+            //var decorator = new ShoppingCartFirstTimeCustomerDecorator(cart);
             var gtotal = decorator.ComputeTotal();
             lblMessage.Text = "Total before discount = " + cart.ComputeTotal().ToString() + "<br/>" +
             "After discounts = " + gtotal.ToString();

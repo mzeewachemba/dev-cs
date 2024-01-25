@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace VisitorPattern
 {
+    //maintains list of employees and makes sure each employee accept a visitor
     internal class Employees
     {
         List<Employee> _EList = new List<Employee>();

@@ -18,9 +18,10 @@ namespace Abstraction
         private void btnTestIclonable_Click(object sender, EventArgs e)
         {
             Student s1 = new Student("Bill", "Baker", 1234, 87, 91);
-            Student s2 = (Student)s1.Clone(); //creating a copy of s1 and put it in s2, 
+            Student s2 = (Student)s1.Clone(); //get a copy of s1 and put it in s2, 
             s1.TestScores[0] = 80; //trying to change one of the values in s1
-            MessageBox.Show(s2.ToString());
+            MessageBox.Show(s2.ToString()); //s2 value should remain the same
+            MessageBox.Show(s1.ToString()); //evaluating s1 value
         }
 
         private void btnTestICloneableAddr_Click(object sender, EventArgs e)
@@ -32,6 +33,7 @@ namespace Abstraction
             s1.TestScores[0] = 80;
             s1.Addr.Street = "20 New Street";
             MessageBox.Show(s2.ToString()); // display second student with value of first student changed
+            MessageBox.Show(s1.ToString()); // display  student 
         }
 
         private void btnTestIComparable_Click(object sender, EventArgs e)

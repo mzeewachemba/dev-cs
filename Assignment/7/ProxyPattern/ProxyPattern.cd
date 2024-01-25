@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProxyPattern.SubjectMyImage" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAgAAAAAAQAAACIAAAECKAAAACAA=</HashCode>
+      <FileName>SubjectMyImage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProxyPattern.ProxyMyImage" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAQAAACIAAQECIAAAAiAA=</HashCode>
+      <FileName>ProxyMyImage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProxyPattern.Form1" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIAAAACMAABAAAACAAQBKIACAAEAAAAaAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProxyPattern.DataAccessFacade" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACABAAAAAAAAAAAAAAAAAAFAAA=</HashCode>
+      <FileName>DataAccessFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProxyPattern.ProtectionProxy" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAABAIAAAAAAAAAAAAAAAAFAAA=</HashCode>
+      <FileName>ProtectionProxy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ProxyPattern.ISubjectMyImage" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAQAAACIAAAAAAAAAACAA=</HashCode>
+      <FileName>ISubjectMyImage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

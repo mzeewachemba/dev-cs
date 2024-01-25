@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StudentApp
 {
-    //grad student extends student
+    //grad student extends student-INHERIETENCE
     internal class GradStudent: Student
     {
         string Thesis {  get; set; }  = string.Empty;

@@ -12,7 +12,7 @@ namespace VisitorPattern
         public double Visit(Element2 element)
         {
             Employee2 emp2 = element as Employee2;
-            return (emp2.HoursWorked * emp2.PayRate);
+            return (emp2.HoursWorked * emp2.PayRate); //computing payrate
         }
         #endregion
     }

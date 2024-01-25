@@ -13,7 +13,7 @@ namespace TemplatePattern
         {
             get { return _STList; }
             set { _STList = value; }
-        }
+        }//below methods implementations to be done by child classes
         public abstract void ReadStudents();
         public abstract void AssignGrades();
         public abstract void SortStudents();

@@ -23,3 +23,28 @@ E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\8\TemplatePatt
 E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\8\TemplatePattern\obj\Debug\net8.0-windows\TemplatePattern.pdb
 E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\8\TemplatePattern\obj\Debug\net8.0-windows\TemplatePattern.genruntimeconfig.cache
 E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\8\TemplatePattern\obj\Debug\net8.0-windows\ref\TemplatePattern.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\bin\Debug\net8.0-windows\TemplatePattern.exe
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\bin\Debug\net8.0-windows\TemplatePattern.deps.json
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\bin\Debug\net8.0-windows\TemplatePattern.runtimeconfig.json
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\bin\Debug\net8.0-windows\TemplatePattern.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\bin\Debug\net8.0-windows\TemplatePattern.pdb
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\obj\Debug\net8.0-windows\TemplatePattern.csproj.AssemblyReference.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\obj\Debug\net8.0-windows\TemplatePattern.Form1.resources
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\obj\Debug\net8.0-windows\TemplatePattern.csproj.GenerateResource.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\obj\Debug\net8.0-windows\TemplatePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\obj\Debug\net8.0-windows\TemplatePattern.AssemblyInfoInputs.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\obj\Debug\net8.0-windows\TemplatePattern.AssemblyInfo.cs
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\obj\Debug\net8.0-windows\TemplatePattern.csproj.CoreCompileInputs.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\obj\Debug\net8.0-windows\TemplatePattern.sourcelink.json
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\obj\Debug\net8.0-windows\TemplatePattern.csproj.CopyComplete
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\obj\Debug\net8.0-windows\TemplatePattern.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\obj\Debug\net8.0-windows\refint\TemplatePattern.dll
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\obj\Debug\net8.0-windows\TemplatePattern.pdb
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\obj\Debug\net8.0-windows\TemplatePattern.genruntimeconfig.cache
+D:\13.MSCS\repo__\dev-cs\Assignment\8\TemplatePattern\obj\Debug\net8.0-windows\ref\TemplatePattern.dll

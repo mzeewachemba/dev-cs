@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GradingApp
 {
-    //interface for processing grades
+    //interface for processing grades-A contract
     internal interface IProcessGrades
     {
         void ReadStudentData(string inputFileName);

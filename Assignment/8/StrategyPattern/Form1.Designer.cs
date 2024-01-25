@@ -56,7 +56,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(314, 231);
             Controls.Add(btnStrategySortUniversity);
             Controls.Add(btnStrategySort);
             Name = "Form1";

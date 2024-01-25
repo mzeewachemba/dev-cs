@@ -9,7 +9,7 @@ namespace Generics
             InitializeComponent();
         }
 
-        private void btnExchange_Click(object sender, EventArgs e)
+        private void btnExchange_Click(object sender, EventArgs e) //testing generic method exchange
         {
             //integers
             int x = 5;
@@ -30,7 +30,7 @@ namespace Generics
             MessageBox.Show("l = " + l.ToString() + " m = " + m.ToString());
         }
 
-        private void btnGenericClass_Click(object sender, EventArgs e)
+        private void btnGenericClass_Click(object sender, EventArgs e) //testing generic class MyGen
         {
             //creating an object of generic class <> has to indicate two datatypes
             MyGen<int, float> mg = new MyGen<int, float>();
@@ -47,7 +47,7 @@ namespace Generics
             //for (int i = 0; i < STArr.Length; i++)
             //    STArr[i] = new Student();
 
-            Student[] STArr = GenArr<Student>.InitArray<Student>(4);
+            Student[] STArr = GenArr<Student>.InitArray<Student>(4); //calling on generic class genarr and generic method initarray
             MessageBox.Show(STArr.Length.ToString());
         }
 
@@ -72,7 +72,7 @@ namespace Generics
             MessageBox.Show(maxScoreStudent.ToString());
         }
 
-        private void btnComparerGeneric_Click(object sender, EventArgs e)
+        private void btnComparerGeneric_Click(object sender, EventArgs e) //sort dtudents by specifying the sortfield
         {
             List<Student> STList = new List<Student>();
             // List is the generic equivalent of ArrayList class.
@@ -118,8 +118,11 @@ namespace Generics
             STList.Add(s4);
 
             StudentComparer sc = new StudentComparer();
-            sc.SortField = SORTFIELD.TEST2SCORE;
-            sc.SortDir = SORTDIR.DESC;
+            //sc.SortField = SORTFIELD.TEST2SCORE;
+            sc.SortField = SORTFIELD.FIRSTNAME;
+
+            //sc.SortDir = SORTDIR.DESC;
+            sc.SortDir = SORTDIR.ASC;
 
             STList.Sort(sc); // will use IComparer to sort
 
@@ -162,7 +165,7 @@ namespace Generics
             int id = 12365;
             try
             {
-                Student st = DTable[id];
+                Student st = DTable[id]; //search for the student id in the table
                 MessageBox.Show(st.ToString());
             }
             catch (KeyNotFoundException)

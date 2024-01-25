@@ -71,16 +71,17 @@ namespace AdapterPattern
             }
         }
 
+        //for adaptor two way
         private void btnAdapter2Way_Click(object sender, EventArgs e)
         {
             IExistingMath im = new MathAdapterTwoWay();
             double res = im.ComputeAvg(7.3f, 6.4f, 8.5f);
-            MessageBox.Show("Avg from legacy ComputeAvg = " + res.ToString());
+            MessageBox.Show("Avg from legacy ComputeAvg = " + res.ToString()); //on legacy code
 
             INewMath inm = new MathAdapterTwoWay();
             double[] Arr = { 7.3f, 6.4f, 8.5f };
             double res2 = inm.ComputeAvgNew(Arr);
-            MessageBox.Show("Result from new ComputeAvg = " + res2.ToString());
+            MessageBox.Show("Result from new ComputeAvg = " + res2.ToString()); //on new code
 
         }
     }

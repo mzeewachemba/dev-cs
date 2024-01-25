@@ -56,7 +56,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(326, 450);
+            ClientSize = new Size(326, 289);
             Controls.Add(btnTestProgressReport);
             Controls.Add(btnTestGradeReport);
             Name = "Form1";

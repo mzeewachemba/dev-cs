@@ -12,7 +12,7 @@ namespace VisitorPattern
         public void Visit(Element element)
         {
             Employee e1 = element as Employee;
-            e1.VacationDays += 2;
+            e1.VacationDays += 2; //adding behavior to vacation days
         }
         #endregion
     }

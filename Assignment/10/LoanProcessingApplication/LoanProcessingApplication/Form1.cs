@@ -14,7 +14,7 @@ namespace AbstractFactoryPattern
 
         private void btnAbstractFactoryUS_Click(object sender, EventArgs e)
         {
-            LoanFactory lf = new LoanFactoryUS();
+            LoanFactory lf = new LoanFactoryUS(); //loan factory could be any factory
             ICreditCheck icc = lf.CreateCreditCheck();
             IBalanceCheck ibc = lf.CreateBalanceCheck();
             BankInfo bi = new BankInfo();
@@ -32,7 +32,7 @@ namespace AbstractFactoryPattern
 
         private void btnAbstractFactoryCanada_Click(object sender, EventArgs e)
         {
-            LoanFactory lf2 = new LoanFactoryCanada();
+            LoanFactory lf2 = new LoanFactoryCanada(); //loan factory could be any factory
             ICreditCheck icc2 = lf2.CreateCreditCheck();
             IBalanceCheck ibc2 = lf2.CreateBalanceCheck();
             BankInfo bi2 = new BankInfo();

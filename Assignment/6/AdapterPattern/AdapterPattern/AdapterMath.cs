@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace AdapterPattern
-{
+{   //adapter class itself
     //wrapper class for adaptee , implements INewMath ,s to use the existing code, but provide a new interface to it
     internal class AdapterMath : ExistingAdaptee, INewMath 
     {

@@ -14,6 +14,8 @@ namespace SessionManagement_.Utils
         const string USERNAME = "USERNAME";
         const string ACCOUNTNUM = "ACCOUNTNUM"; // integer storage
         const string LASTLOGIN = "LASTLOGIN"; // datetime
+        
+        //properties for session data Username, Account, Last Login
         public static string UserName
         {
             get

@@ -12,7 +12,7 @@ namespace DBStudentApp_1174066.DataLayer
 {
     internal class DataAccess : IDataAccess
     {
-        string connstr = ConfigurationManager.ConnectionStrings["STUDENTDBCONN"].ConnectionString;
+        string connstr = ConfigurationManager.ConnectionStrings["STUDENTDBCONN"].ConnectionString; //from app.config
         public DataTable GetManyRowsCols(string sql)
         {
             DataTable dt = new DataTable();
@@ -20,7 +20,7 @@ namespace DBStudentApp_1174066.DataLayer
             try
             {
                 conn.Open();
-                SqlDataAdapter da = new SqlDataAdapter(sql, conn);
+                SqlDataAdapter da = new SqlDataAdapter(sql, conn); //passes sql and conn to the db for operation
                 da.Fill(dt);
             }
             catch (Exception ex)

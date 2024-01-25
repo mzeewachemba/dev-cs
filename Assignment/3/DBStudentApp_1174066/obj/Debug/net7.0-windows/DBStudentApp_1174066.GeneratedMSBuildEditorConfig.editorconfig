@@ -14,4 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DBStudentApp_1174066
-build_property.ProjectDir = E:\2.Online MS CS\2nd Year\1st Semester\CPSC501\dev-cs\Assignment\3\DBStudentApp_1174066\
+build_property.ProjectDir = D:\13.MSCS\repo__\dev-cs\Assignment\3\DBStudentApp_1174066\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -34,6 +34,7 @@ namespace Generics
             return this.Test1Score.CompareTo(other.Test1Score);
         }
 
+        //generic method which allows comparison based on different fields
         public int CompareTo(Student st, MyEnums.SORTFIELD sField)
         {
             int res = 0;

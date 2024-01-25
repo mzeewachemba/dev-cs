@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BridgePattern
 {
-    internal class RefinedAbstraction : Abstraction
+    internal class RefinedAbstraction : Abstraction //adds more methods without affecting the implementation to the abstraction
     {
         public RefinedAbstraction(IBridge br) : base(br)
         {
