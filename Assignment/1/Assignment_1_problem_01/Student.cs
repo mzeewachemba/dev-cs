@@ -16,6 +16,7 @@ namespace StudentApp
         public int Test1 
         {
             get { return test1; }
+            //validate scrore inputs
             set { if ((value < 0) || (value > 100))
                     throw new Exception("invalid test1 score");
             test1 = value;
@@ -23,6 +24,7 @@ namespace StudentApp
         }
         public int Test2 { get; set; }
 
+        //virtual method to enforce dynamics
         public virtual string ComputeGrade()
         {
             string grade = " ";

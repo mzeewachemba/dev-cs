@@ -8,12 +8,13 @@ namespace ObserverPattern
 {
     internal class StockSubject //publisher
     {
-        List<IObserver> OBList = new List<IObserver>(); //list of subscribers
+        List<IObserver> OBList = new List<IObserver>(); //maintains list of subscribers
         StockInfo stockInfo = null;
         public StockSubject(StockInfo sinfo) //stock itself
         {
             stockInfo = sinfo;
         }
+        //has access to update the prices
         public void UpdatePrice(double updateAmt)
         {
             stockInfo.Price = stockInfo.Price + updateAmt;

@@ -9,6 +9,7 @@ namespace ProxyPattern
 {
     internal class ProtectionProxy
     {
+        //authenticate first
         DataAccessFacade daf = null;
         public bool Authenticate(string password)
         {
@@ -21,7 +22,7 @@ namespace ProxyPattern
             return res;
         }
 
-        //below methods will only work if anthentication passes
+        //below methods will only work if anthentication passes, and auth is only done once
         public object GetSingleAnswer(string sql)
         {
             object obj = null;
@@ -31,6 +32,7 @@ namespace ProxyPattern
                 throw new Exception("requires authentication..");
             return obj;
         }
+
         public int UpdateInsertDelete(string sql)
         {
             int ret = 0;

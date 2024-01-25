@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//facade singleton implementation
 namespace FacadePattern
 {
     internal class MortgageFacadeSingleton
@@ -15,7 +16,7 @@ namespace FacadePattern
         MortgageFacadeSingleton() { }
 
         //get method to access the instanceMf
-        public static MortgageFacadeSingleton Instance
+        public static MortgageFacadeSingleton Instance //instance of this class get initialized only on Calling the class to avoid using new keyword to create multiple objects
         {
             get
             {

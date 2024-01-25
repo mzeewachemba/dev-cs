@@ -37,14 +37,14 @@ namespace StrategyPattern
                 Test2Score = 83
             };
             STList.Add(s3);
-            //shellsort
+            //shellsort , pass shell sort object
             SortContext cxt = new SortContext(new ShellSortStrategy());
             cxt.DoSort(STList);
             string out1 = "";
             foreach (Student st in STList)
                 out1 += st.ToString() + "\n";
             MessageBox.Show(out1);
-            // switch to Quicksort
+            // switch to Quicksort , pass quicksort object
             SortContext cxt2 = new SortContext(new QuickSortStrategy());
             cxt.DoSort(STList);
             string out2 = "";

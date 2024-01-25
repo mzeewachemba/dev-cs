@@ -22,7 +22,8 @@ namespace GraddingAppAssignment2
         public string LastName { get; set; } = String.Empty;
         public int Test1 { get; set; }
         public int Test2 { get; set; }
-
+        
+        //implementing compare to
         public int CompareTo(Student? other)
         {
             int retVal = 0;
@@ -37,7 +38,7 @@ namespace GraddingAppAssignment2
             double points = 0;
             switch (grade)
             {
-                //for A to stay at the stop, start with smaller value
+                //for A to stay at the top, start with smaller value
                 case "A":
                     points = 1;
                     break;

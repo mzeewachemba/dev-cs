@@ -45,14 +45,14 @@ public class ProcessGrades implements IProcessGrades {
 								Integer.parseInt(parts[5]), parts[6]);
 					}
 				}
-				if (parts.length == 8) // Phd student
+				if (parts.length == 9) // Phd student
 				{
 					if (parts[3].toUpperCase().equals("PHDCPSC"))
 					{
 						st = (Student) new PhdStudent(Integer.parseInt(parts[0]),
 								parts[1],
-								parts[2], Integer.parseInt(parts[4]),
-								Integer.parseInt(parts[5]), parts[6], parts[7]);
+								parts[2], Integer.parseInt(parts[5]),
+								Integer.parseInt(parts[6]), parts[7], parts[8]);
 					}
 				}
 				if (st != null)

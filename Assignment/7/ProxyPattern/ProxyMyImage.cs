@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProxyPattern
 {
-    internal class ProxyMyImage : ISubjectMyImage //to replace real sobject by proxy
+    internal class ProxyMyImage : ISubjectMyImage //to replace real sobject by proxy-surrogate class
     {
         ISubjectMyImage ism = null;
         string fileName = "";
@@ -18,6 +18,7 @@ namespace ProxyPattern
             category = cat;
             shortName = sname;
         }
+        //accessing the real class and create an image subject
         void CreateSubject()
         {
             if (ism == null)
@@ -41,12 +42,13 @@ namespace ProxyPattern
         {
             return fileName; // no need to create real subject
         }
-        //needed
+        //needed to create a bitmap from a real class
         public System.Drawing.Bitmap GetBitmap()
         {
             CreateSubject(); // create subject since bitmap is needed
             return ism.GetBitmap();
         }
+        //image size and real class
         public System.Drawing.Size GetImageSize()
         {
             CreateSubject(); // create subject since it is needed

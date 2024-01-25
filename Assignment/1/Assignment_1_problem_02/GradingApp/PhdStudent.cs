@@ -11,7 +11,7 @@ namespace GradingApp
         public PhdStudent(int id, string fname, string lname, int test1, int test2 , string dissertetion , string advisor) : base(id, fname, lname, test1, test2)
         {
         }
-        //variables for this class
+        //additional variables for this class
         public string Dissertation { get; set; } 
         public string Advisor { get; set; }
         public override string ComputeGrade()

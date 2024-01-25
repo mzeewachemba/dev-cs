@@ -21,7 +21,7 @@ public abstract class Student implements Comparable<Student>{
 
 	@Override
 	public int compareTo(Student st) {
-		// TODO Auto-generated method stub
+		// below code is negated to reverse natural order
 		return - 1*Double.valueOf(getGradePoints(this.computeGrade())).compareTo(Double.valueOf(getGradePoints(st.computeGrade())));
 	}
 
@@ -30,8 +30,9 @@ public abstract class Student implements Comparable<Student>{
 		double points = 0;
 		switch (grade)
 		{
-		case "A": points = 4.0;
-		break;
+		case "A": 
+			points = 4.0;
+			break;
 		case "A-":
 			points = 3.7;
 			break;

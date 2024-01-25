@@ -15,11 +15,11 @@ namespace DecoratorPattern
         }
         public override string Welcome()
         {
-            return icmp.Welcome() + "\nTime = " + DateTime.Now.ToString();
+            return icmp.Welcome() + "\nTime = " + DateTime.Now.ToString();//addding time component as well
         }
         public override string Welcome(string name)
         {
-            return icmp.Welcome(name) + "\nTime = " + DateTime.Now.ToString();
+            return icmp.Welcome(name) + "\nTime = " + DateTime.Now.ToString();//addding time component as well
         }
     }
 }

@@ -78,7 +78,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(320, 450);
             Controls.Add(btnOverTimeExtension);
             Controls.Add(btnAddComputePayMethod);
             Controls.Add(btnAddOverTime);

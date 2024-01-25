@@ -5,7 +5,7 @@ using System.Web;
 
 namespace ShoppingCartDecoratorPattern.Models
 {
-    public class ShoppingCart : IShoppingCart //base component concrete
+    public class ShoppingCart : IShoppingCart //base component concrete class
     {
         public List<CartRow> CartList { get; set; } // list of items in cart
         public decimal ComputeTotal() //calculating total

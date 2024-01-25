@@ -12,7 +12,7 @@ namespace ProxyPattern
     //need authentication to access this class
     internal class DataAccessFacade
     {
-        public string CONNSTR = "server=DESKTOP-Q1L8NT0\\SQLEXPRESS;integrated security=true;database=ProductsBCBS";
+        public string CONNSTR = "server=Work-Horse\\SQLEXPRESS;integrated security=true;database=ProductsBCBS";
         
         public object GetSingleAnswer(string sql)
         {

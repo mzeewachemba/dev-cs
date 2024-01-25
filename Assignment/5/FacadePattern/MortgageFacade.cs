@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//below class code was transfered from form1.cs , bacuse the code communicate with various classes , to organize this into one solution(unified class)
+//facade class was created as a single class which will call all the classes we need and give us an answer via a single line of code.
 namespace FacadePattern
 {
     class MortgageFacade

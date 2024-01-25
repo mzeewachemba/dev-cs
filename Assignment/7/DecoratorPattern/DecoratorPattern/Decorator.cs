@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace DecoratorPattern
 {
     //class with improvements
-    abstract class Decorator : IComponent
+    abstract class Decorator : IComponent //abstract to allow implementation by decorators
     {
         //aggregating IComponent
         protected IComponent icmp = null;

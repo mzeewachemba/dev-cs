@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace AbstractFactoryPattern
 {
+    //to allow different implementations
     internal interface IBalanceCheck
     {
         double GetCurrentBalances(List<BankInfo> BInfoList);

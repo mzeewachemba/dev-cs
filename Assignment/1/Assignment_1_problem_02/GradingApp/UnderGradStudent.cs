@@ -8,7 +8,7 @@ namespace GradingApp
 {
     internal class UnderGradStudent : Student
     {
-        //constructor initialization by the child
+        //constructor initialization by the child-delegating to parent, code reuse
         public UnderGradStudent(int id, string fname, string lname, int test1, int test2) : base(id, fname, lname, test1, test2)
         {
         }

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ShoppingCartDecoratorPattern.Models.CartRow" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAgAQAAAAAAAAAAAAAAAAAAAAAAAAAAgAAIAAA=</HashCode>
+      <FileName>Models\CartRow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShoppingCartDecoratorPattern.Models.ShoppingCartBaseDecorator" Collapsed="true">
+    <Position X="6.75" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAIAAAABAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Models\ShoppingCartBaseDecorator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ShoppingCartDecoratorPattern.Models.ShoppingCartFirstTimeCustomerDecorator" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Models\ShoppingCartFirstTimeCustomerDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShoppingCartDecoratorPattern.Models.ShoppingCartGT500Decorator" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Models\ShoppingCartGT500Decorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShoppingCartDecoratorPattern.Models.ShoppingCartHolidaySaleDecorator" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Models\ShoppingCartHolidaySaleDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShoppingCartDecoratorPattern.Models.ShoppingCart" Collapsed="true">
+    <Position X="11.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Models\ShoppingCart.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="ShoppingCartDecoratorPattern.Models.IShoppingCart" Collapsed="true">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Models\IShoppingCart.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

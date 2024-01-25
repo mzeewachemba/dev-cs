@@ -9,17 +9,19 @@ namespace DecoratorPattern
 
         private void btnDecoratorSimple_Click(object sender, EventArgs e)
         {
+            //allow to choose and excecute different enhancements enhancement
             IComponent cmp = new Component();
-            // base system object - undecorated
+            // base system object - undecorated - Component only
             MessageBox.Show("Orig component:\n" + cmp.Welcome("Bill"));
             // after decoration by DecoratorTime
             DecoratorTime dect = new DecoratorTime(cmp);
-            // decorates cmp with time info
+            // decorates cmp with time info - uses base component cmp
             MessageBox.Show("Time decoration:\n" + dect.Welcome("Bill"));
-            // base component after decoration by DecoratorBday only
+            // after decoration by DecoratorBday only - uses base component cmp
             DecoratorBday decb = new DecoratorBday(cmp);
             MessageBox.Show("Bday decoration:\n" + decb.Welcome("Bill"));
-            // after decoration by both time and bday
+            //COMBINING DATA AND TIME
+            // decoration by both time and bday
             DecoratorBday decTimeBday = new DecoratorBday(dect);
             MessageBox.Show("Time,Bday decoration:\n" + decTimeBday.Welcome("Bill"));
         }
@@ -30,11 +32,10 @@ namespace DecoratorPattern
             MessageBox.Show(cdt.Welcome());
             ComponentDerivedBday cdb = new ComponentDerivedBday();
             MessageBox.Show(cdb.Welcome());
-            // what if we wanted both time and bday decoration
-            // This will require us to create another derived class
-            // what if we wanted to print out time first, then bday
-            // or vice versa. This will require us to create many
-            // subclasses. Following does not produce desired
+
+            MessageBox.Show(cdt.Welcome() + cdb.Welcome()); 
+            //this will produce duplicates information in the output which is not a desired output
+            //using normal inheritence will require more classes so that we can combine/choose desired features
         }
     }
 }

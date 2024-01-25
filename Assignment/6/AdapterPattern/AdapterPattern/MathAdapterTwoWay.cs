@@ -5,13 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace AdapterPattern
-{
+{   //implementing both interfaces for compatibility of old methods and new methods
     internal class MathAdapterTwoWay : INewMath,IExistingMath
     {
-        //implementing both classes for compatibility
         ExistingAdaptee ema = new ExistingAdaptee();
         ExistingMathAdapteeDerived emad = new ExistingMathAdapteeDerived();
-
+        //existing methods
         public double ComputeAvg(float a, float b, float c)
         {
             return ema.ComputeAvg(a, b, c);
@@ -31,7 +30,7 @@ namespace AdapterPattern
         {
             return ema.FindMin(a, b, c, d);
         }
-
+        //new methods
         public double ComputeAvgNew(double[] Arr)
         {
             if (Arr.Length == 3)

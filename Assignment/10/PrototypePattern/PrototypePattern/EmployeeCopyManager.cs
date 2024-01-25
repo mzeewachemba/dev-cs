@@ -8,8 +8,7 @@ namespace PrototypePattern
 {//this class generate a copy of an employee with the default field already populated
     class EmployeeCopyManager : ProtoTypeBase<Employee>
     {
-        Dictionary<String, Employee> DTable = new Dictionary<String,
-       Employee>();
+        Dictionary<String, Employee> DTable = new Dictionary<String,Employee>();
         public EmployeeCopyManager()
         {
             Address a1 = new Address
@@ -25,7 +24,7 @@ namespace PrototypePattern
             e1.Addr = a1;
             DTable.Add(e1.Branch, e1);
         }
-        public Employee this[string bran]
+        public Employee this[string bran] //creates a copy
         {
             get
             {

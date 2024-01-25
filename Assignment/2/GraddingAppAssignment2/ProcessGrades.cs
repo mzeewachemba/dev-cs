@@ -64,13 +64,13 @@ namespace GraddingAppAssignment2
                            parts[6]);
                         }
                     }
-                    if (parts.Length == 8) // for Phd student
+                    if (parts.Length == 9) // for Phd student
                     {
                         if (parts[3].ToUpper() == "PHDCPSC")
                         {
                             st = new PhdStudent(int.Parse(parts[0]), parts[1],
-                            parts[2], int.Parse(parts[4]), int.Parse(parts[5]),
-                           parts[6], parts[7]);
+                            parts[2], int.Parse(parts[5]), int.Parse(parts[6]),
+                           parts[7], parts[8]);
                         }
                     }
                     if (st != null)

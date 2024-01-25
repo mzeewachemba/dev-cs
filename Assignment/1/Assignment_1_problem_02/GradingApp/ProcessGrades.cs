@@ -44,9 +44,10 @@ namespace GradingApp
                 string sline = sr.ReadLine();
                 while (sline != null)
                 {
-                    Student st = null; 
+                    Student st = null; //to allow polymorphism and calling different classes
                     string[] parts = sline.Split(new char[] { '\t' });
-                    if (parts.Length == 6) 
+                    //Console.WriteLine("++++++++++PARTS LEN IS: " + parts.Length);
+                    if (parts.Length == 6)  //validations for undergrad student
                     {
                         if (parts[3].ToUpper() == "UNDERGRAD")
                         {
@@ -54,7 +55,7 @@ namespace GradingApp
                             parts[2], int.Parse(parts[4]), int.Parse(parts[5]));
                         }
                     }
-                    if (parts.Length == 7) // for grad student
+                    if (parts.Length == 7) // validations for grad student
                     {
                         if (parts[3].ToUpper() == "GRADUATE")
                         {
@@ -63,19 +64,19 @@ namespace GradingApp
                            parts[6]);
                         }
                     }
-                    if (parts.Length == 8) // for Phd student
+                    if (parts.Length == 9) // validations for Phd student
                     {
                         if (parts[3].ToUpper() == "PHDCPSC")
                         {
                             st = new PhdStudent(int.Parse(parts[0]), parts[1],
-                            parts[2], int.Parse(parts[4]), int.Parse(parts[5]),
-                           parts[6], parts[7]);
+                            parts[2], int.Parse(parts[5]), int.Parse(parts[6]),
+                           parts[7], parts[8]);
                             Console.WriteLine("PHD " + st.ToString());
                         }
                     }
-                    if (st != null)
+                    if (st != null) //validate student
                         STList.Add(st); // adding student to the list
-                    sline = sr.ReadLine(); // take next line
+                    sline = sr.ReadLine(); // tp the next line
                 }
             }
             catch

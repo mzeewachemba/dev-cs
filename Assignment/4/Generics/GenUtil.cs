@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Generics
 {
-    internal class GenUtil
+    internal class GenUtil // Generic method
     {
         //public static void Exchange<T>(ref int a, ref int b)
         //{
@@ -37,6 +37,5 @@ namespace Generics
             a = b;
             b = temp;
         }
-
     }
 }

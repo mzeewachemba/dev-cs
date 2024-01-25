@@ -10,8 +10,7 @@ namespace TestD1.DataLayer
 {
     internal class DataAccess : IDataAccess
     {
-        string connStr =
-       ConfigurationManager.ConnectionStrings["MYDBCONN"].ConnectionString;
+        string connStr = ConfigurationManager.ConnectionStrings["MYDBCONN"].ConnectionString;
         public DataTable GetManyRowsCols(string sql)
         {
             SqlConnection conn = new SqlConnection(connStr);

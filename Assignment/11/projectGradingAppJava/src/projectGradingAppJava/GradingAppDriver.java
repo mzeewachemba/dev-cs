@@ -9,8 +9,7 @@ public class GradingAppDriver {
 			ProcessGrades pg = new ProcessGrades();
 			pg.readStudentData(inputFile);
 			pg.processAndWriteGrades(outputFile);
-			System.out.println("Grades processed, examine file " +
-					outputFile);
+			System.out.println("Grades processed, examine file " + outputFile);
 		}
 		catch (Exception ex)
 		{

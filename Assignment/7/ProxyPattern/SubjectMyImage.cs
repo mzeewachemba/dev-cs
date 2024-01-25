@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProxyPattern
 {
-    internal class SubjectMyImage : ISubjectMyImage
+    internal class SubjectMyImage : ISubjectMyImage //real class
     {
         Bitmap bmp = null;
         Size sz;
@@ -18,6 +18,7 @@ namespace ProxyPattern
             fileName = filename;
             category = cat;
             shortName = sName;
+            //gets the bitmap and size when Image is created
             bmp = new Bitmap(Image.FromFile(filename));
             sz = new Size(bmp.Width, bmp.Height);
         }

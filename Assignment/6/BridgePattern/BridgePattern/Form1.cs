@@ -9,13 +9,13 @@ namespace BridgePattern
 
         private void btnBridgeBasic_Click(object sender, EventArgs e)
         {
-            //implementation A
+            //calling on implementation A
             Abstraction abs = new Abstraction(new ImplementationA());
             string res1 = abs.Operation();
             string res2 = abs.OperationGreet("Bill");
             MessageBox.Show(res1 + "\n" + res2);
 
-            //implementation B
+            //calling on implementation B
             abs = new Abstraction(new ImplementationB());
             res1 = abs.Operation();
             res2 = abs.OperationGreet("Bill");

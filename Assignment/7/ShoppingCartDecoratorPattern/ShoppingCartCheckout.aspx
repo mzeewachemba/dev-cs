@@ -56,7 +56,7 @@
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
-        <td>&nbsp;<asp:Button ID="btnCheckout" runat="server" Text="Checkout" /></td>
+        <td>&nbsp;<asp:Button ID="btnCheckout" runat="server" Text="Checkout"  OnClick="btnCheckout_Click"/></td>
         <td>&nbsp;</td>
     </tr>
     <tr>

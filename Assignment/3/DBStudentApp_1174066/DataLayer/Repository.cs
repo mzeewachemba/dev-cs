@@ -11,7 +11,7 @@ namespace DBStudentApp_1174066.DataLayer
 {
     internal class Repository : IRepository //compose sql and send it to datalayer
     {
-        IDataAccess _idac = new DataAccess();
+        IDataAccess _idac = new DataAccess(); //need to use its methods such as getsingle answer
         //private DataTable dt;
 
         public List<Course> GetAllCourses()
@@ -47,7 +47,7 @@ namespace DBStudentApp_1174066.DataLayer
 
                 DataTable dt = _idac.GetManyRowsCols(sql); //datatable is mainly for repository class
 
-                foreach (DataRow dr in dt.Rows)
+                foreach (DataRow dr in dt.Rows) // transforming datatable into enrollment objects
                 {
                     Enrollment e = new Enrollment();
                     e.StuedntId = (int)dr["StudentId"];

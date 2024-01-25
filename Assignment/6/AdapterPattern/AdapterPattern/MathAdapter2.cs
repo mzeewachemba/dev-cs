@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace AdapterPattern
 {
-    internal class MathAdapter2 : IMathTarget //implementing interface
+    internal class MathAdapter2 : IMathTarget //implementing interface,existing class composed by adaptor
     {
         ExistingAdaptee ema = null;
 
-        //composition of adaptee class
+        //composition of adaptee class, allows us to access the existing class method
         public MathAdapter2()
         {
             ema = new ExistingAdaptee();
@@ -46,7 +46,5 @@ namespace AdapterPattern
             else
                 throw new Exception("Array size is not currently supported for FindMin");
         }
-
-
     }
 }

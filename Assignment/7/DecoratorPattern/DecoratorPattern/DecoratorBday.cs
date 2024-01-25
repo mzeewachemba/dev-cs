@@ -15,11 +15,11 @@ namespace DecoratorPattern
         }
         public override string Welcome()
         {
-            return icmp.Welcome() + "\nHappy Birthday ";
+            return icmp.Welcome() + "\nHappy Birthday ";//adding happy birthday component
         }
         public override string Welcome(string name)
         {
-            return icmp.Welcome(name) + "\nHappy Birthday";
+            return icmp.Welcome(name) + "\nHappy Birthday";//adding happy birthday component
         }
     }
 }

@@ -22,6 +22,6 @@ namespace GradingApp
         public string LastName { get; set; } = String.Empty;
         public int Test1 { get; set; }
         public int Test2 { get; set; }
-        public abstract string ComputeGrade(); //to be implemented by derivatives
+        public abstract string ComputeGrade(); //to be implemented by child classes
     }
 }
