@@ -1,5 +1,5 @@
 import sys
-import numpy
+import numpy as np
 import pandas as pd
 import math
 
@@ -50,12 +50,13 @@ def main():
     print('mean virginica\n',mean_virginica)
 
     #variance of each class
-    mean_setosa = dfsetosa.iloc[:,0:4].var(axis=0)
-    print('mean setosa\n',mean_setosa) 
-    mean_versicolor = dfversicolor.iloc[:,0:4].var(axis=0)
-    print('mean versicolor\n',mean_versicolor)
-    mean_virginica = dfvirginica.iloc[:,0:4].var(axis=0)
-    print('mean virginica\n',mean_virginica)
+    var_setosa = dfsetosa.iloc[:,0:4].var(axis=0)
+    print('var setosa\n',var_setosa)
+    var_versicolor = dfversicolor.iloc[:,0:4].var(axis=0)
+    print('var versicolor\n',mean_versicolor)
+    var_virginica = dfvirginica.iloc[:,0:4].var(axis=0)
+    print('var virginica\n',var_virginica)
+
     
     #predict based on the test set
     count_correct = 0
@@ -63,28 +64,27 @@ def main():
         x = dftest.iloc[i, 0:4].values
     
         # Calculate Gaussian probabilities for each class
-        probC1 = compute_gaussian_probab(x, mean_setosa.values, var_setosa.values)
-        probC2 = compute_gaussian_probab(x, mean_versicolor.values, var_versicolor.values)
-        probC3 = compute_gaussian_probab(x, mean_virginica.values, var_virginica.values)
+        probC1 = compute_gaussian_probability(x, mean_setosa.values, var_setosa.values)
+        probC2 = compute_gaussian_probability(x, mean_versicolor.values, var_versicolor.values)
+        probC3 = compute_gaussian_probability(x, mean_virginica.values, var_virginica.values)
     
         # Combine probabilities
         probs = np.array([probC1, probC2, probC3])
     
-        # Predicted class index
-        predicted_class_index = np.argmax(probs)
-    
-        # Actual class index
-        actual_class_index = {'setosa': 0, 'versicolor': 1, 'virginica': 2}[dftest.iloc[i, 4]]
-    
-        # Check if prediction is correct
-        if predicted_class_index == actual_class_index:
-            count_correct += 1
-
-    # Calculate accuracy
-    accuracy = count_correct / len(dftest)
-    print("Accuracy:", accuracy)
-
-
+        maxindex = probs.argmax(axis=0)
+        
+        if dftest.iloc[i,4] == 'setosa':
+           index = 0
+        if dftest.iloc[i,4] == 'versicolor':
+           index = 1
+        if dftest.iloc[i,4] == 'virginica':
+           index = 2
+        if maxindex == index:
+           count_correct = count_correct + 1
+        #print(probC1,' ', probC2,' ', probC3,' class=',dftest.iloc[i,4])
+    print('\n*******************************************')
+    print('\nclassification accuracy\n =', count_correct/len(dftest)*100)
+    print('\n*******************************************')
 
 if __name__ == "__main__":
  sys.exit(int(main() or 0))
