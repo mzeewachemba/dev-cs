@@ -1,5 +1,5 @@
 import sys
-import numpy
+import numpy as np
 import pandas as pd
 import math
 
@@ -15,7 +15,7 @@ def main():
     df = pd.read_csv("E:/16.Data_for_assignments/CPSC552/wheat-seeds.csv") 
     
     #insert column names into the data
-    df.columns = [Area , Perimeter , Compactness , Length_of_kernel , Width_of_kernel , Asymmetry_coefficient , Length_of_kernel_groove]
+    df.columns = ['area' , 'perimeter' , 'compactness' , 'length_of_kernel' , 'width_of_kernel' , 'asymmetry_coefficient' , 'length_of_kernel_groove','class']
     
     #randomize wheat seed data
     dfrandom = df.sample(frac=1, random_state=1119).reset_index(drop=True)
@@ -36,58 +36,56 @@ def main():
     dftest = dfrandom.iloc[150:,:]  #from 150 to the last row
     print(dftest)
     
-    #categorize the data
-    dfsetosa = dfrandom[dfrandom['species'] == 'setosa']
-    print(dfsetosa)
-    dfversicolor = dfrandom[dfrandom['species'] == 'versicolor']
-    print(dfversicolor)
-    dfvirginica = dfrandom[dfrandom['species'] == 'virginica']
-    print(dfvirginica)
+    #categorize the data into its classed 
+    df_first_class = dfrandom[dfrandom['class'] == 1]
+    print(df_first_class)
+    df_second_class = dfrandom[dfrandom['class'] == 2]
+    print(df_second_class)
+    df_third_class = dfrandom[dfrandom['class'] == 3]
+    print(df_third_class)
 
-    #mean of each class
-    mean_setosa = dfsetosa.iloc[:,0:4].mean(axis=0)
-    print('mean setosa\n',mean_setosa) 
-    mean_versicolor = dfversicolor.iloc[:,0:4].mean(axis=0)
-    print('mean versicolor\n',mean_versicolor)
-    mean_virginica = dfvirginica.iloc[:,0:4].mean(axis=0)
-    print('mean virginica\n',mean_virginica)
+    #mean of each class for each column
+    mean_first_class = df_first_class.iloc[:,0:7].mean(axis=0)
+    print('mean of the first class\n',mean_first_class) 
+    mean_second_class = df_second_class.iloc[:,0:7].mean(axis=0)
+    print('mean of the second class\n',mean_second_class)
+    mean_third_class = df_third_class.iloc[:,0:7].mean(axis=0)
+    print('mean of the third class\n',mean_third_class)
 
-    #variance of each class
-    mean_setosa = dfsetosa.iloc[:,0:4].var(axis=0)
-    print('mean setosa\n',mean_setosa) 
-    mean_versicolor = dfversicolor.iloc[:,0:4].var(axis=0)
-    print('mean versicolor\n',mean_versicolor)
-    mean_virginica = dfvirginica.iloc[:,0:4].var(axis=0)
-    print('mean virginica\n',mean_virginica)
+    # #variance of each class
+    varnc_first_class = df_first_class.iloc[:,0:7].var(axis=0)
+    print('variance of the first class\n',varnc_first_class) 
+    varnc_second_class = df_second_class.iloc[:,0:7].var(axis=0)
+    print('variance of the second class\n',varnc_second_class)
+    varnc_third_class = df_third_class.iloc[:,0:7].var(axis=0)
+    print('variance of the third class\n',varnc_third_class)
     
     #predict based on the test set
     count_correct = 0
     for i in range(len(dftest)):
-        x = dftest.iloc[i, 0:4].values
+        x = dftest.iloc[i, 0:7].values
     
         # Calculate Gaussian probabilities for each class
-        probC1 = compute_gaussian_probab(x, mean_setosa.values, var_setosa.values)
-        probC2 = compute_gaussian_probab(x, mean_versicolor.values, var_versicolor.values)
-        probC3 = compute_gaussian_probab(x, mean_virginica.values, var_virginica.values)
+        probC1 = compute_gaussian_probability(x, mean_first_class.values, varnc_first_class.values)
+        probC2 = compute_gaussian_probability(x, mean_second_class.values, varnc_second_class.values)
+        probC3 = compute_gaussian_probability(x, mean_third_class.values, varnc_third_class.values)
     
         # Combine probabilities
         probs = np.array([probC1, probC2, probC3])
-    
-        # Predicted class index
-        predicted_class_index = np.argmax(probs)
-    
-        # Actual class index
-        actual_class_index = {'setosa': 0, 'versicolor': 1, 'virginica': 2}[dftest.iloc[i, 4]]
-    
-        # Check if prediction is correct
-        if predicted_class_index == actual_class_index:
-            count_correct += 1
-
-    # Calculate accuracy
-    accuracy = count_correct / len(dftest)
-    print("Accuracy:", accuracy)
-
-
+        maxindex = probs.argmax(axis=0) #returns the idex of the maximum value      
+        
+        if dftest.iloc[i,7] == 1:
+            index = 0
+        if dftest.iloc[i,7] == 2:
+            index = 1
+        if dftest.iloc[i,7] == 3:
+            index = 2
+        if maxindex == index:
+            count_correct = count_correct + 1
+        #print(probC1,' ', probC2,' ', probC3,' class=',dftest.iloc[i,7])
+    print('\n*******************************************')
+    print('\nclassification accuracy\n =', count_correct/len(dftest)*100)
+    print('\n*******************************************')
 
 if __name__ == "__main__":
  sys.exit(int(main() or 0))
