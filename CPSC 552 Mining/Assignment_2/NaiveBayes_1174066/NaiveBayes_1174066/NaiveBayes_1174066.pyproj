@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>16a7677c-cd12-43ec-baef-b92bc59f4429</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>NaiveBayesWheatSeed_1174066.py</StartupFile>
+    <StartupFile>NaiveBayesIris_1174066.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
