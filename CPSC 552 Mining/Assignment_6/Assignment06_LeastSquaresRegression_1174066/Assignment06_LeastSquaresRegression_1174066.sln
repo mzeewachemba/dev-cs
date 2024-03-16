@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Assignment06_LeastSquaresRegression_1174066", "Assignment06_LeastSquaresRegression_1174066\Assignment06_LeastSquaresRegression_1174066.pyproj", "{9FA8FF62-C4F6-4B38-A5DD-52EC2663E2C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FA8FF62-C4F6-4B38-A5DD-52EC2663E2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FA8FF62-C4F6-4B38-A5DD-52EC2663E2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18ECA24E-8B7E-403D-89D3-AE203E946368}
+	EndGlobalSection
+EndGlobal
