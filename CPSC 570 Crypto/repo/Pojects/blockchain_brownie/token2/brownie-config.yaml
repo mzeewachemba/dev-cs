@@ -1,0 +1,36 @@
+dependencies:
+  # <organization/repo>@version
+  # - smartcontractkit/chainlink@1.8.0
+  - smartcontractkit/chainlink@2.9.1
+  - OpenZeppelin/openzeppelin-contracts@4.9.2
+
+# compiler:
+#   solc:
+
+remappings:
+  # - "@chainlink=smartcontractkit/chainlink@1.8.0"
+  - "@chainlink=smartcontractkit/chainlink@2.9.1"
+  - "@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.9.2"
+
+networks:
+  development:
+    verify: False
+  local-ganache:
+    verify: False
+  sepolia:
+    verify: True
+  eth_usd_price_feed: '0x694AA1769357215DE4FAC081bf1f309aDC325306'
+  mainnet:
+    verify: True
+    eth_usd_price_feed: '0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419'
+
+networks:
+  sepolia-infura:
+    host: https://sepolia.infura.io/v3/235b941d748d4862afcd01152d6d4152
+    chainid: 11155111
+    gas_price: auto
+    timeout: 60
+
+dotenv: .env
+wallets:
+  from_key: ${PRIVATE_KEY}

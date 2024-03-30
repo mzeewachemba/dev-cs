@@ -1,0 +1,13 @@
+dependencies:
+  # <organization/repo>@version
+  - smartcontractkit/chainlink@2.3.0  # use version 1.8
+
+#substitute @chainlink with smartcontractkit
+compiler:
+  solc:
+    remappings:
+      "@chainlink=smartcontractkit/chainlink@2.3.0"
+
+dotenv: .env
+wallet:
+  from_key: ${PRIVATE_KEY}
