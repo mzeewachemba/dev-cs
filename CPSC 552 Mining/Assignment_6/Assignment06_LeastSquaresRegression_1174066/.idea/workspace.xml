@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7b55bb8-d4e3-4eac-8b1b-8fc6adcfba72" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/.vs/Assignment08_1174066_DataVisualization/FileContentIndex/67afcabb-8458-4e38-99e2-f9bd9f34741e.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/.vs/Assignment08_1174066_DataVisualization/FileContentIndex/6c259386-7bcb-4df5-82a6-02fa4a3eaa80.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/.vs/Assignment08_1174066_DataVisualization/FileContentIndex/8a6c3875-e321-4105-9614-522e791f3d95.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/.vs/Assignment08_1174066_DataVisualization/FileContentIndex/9657b0d7-b083-4f8f-a1bd-995422b559d3.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/.vs/Assignment08_1174066_DataVisualization/FileContentIndex/b3add3f5-f11d-4147-b0b2-e87736c5444b.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/.vs/Assignment08_1174066_DataVisualization/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/.vs/Assignment08_1174066_DataVisualization/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/Assignment08_1174066_DataVisualization/Assignment08_1174066_DataVisualization.pyproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/Assignment08_1174066_DataVisualization/Assignment08_1174066_DataVisualization.pyproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/Assignment08_1174066_DataVisualization/ISOMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/Assignment08_1174066_DataVisualization/ISOMap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/Assignment08_1174066_DataVisualization/MDS.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/Assignment08_1174066_DataVisualization/MDS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/Assignment08_1174066_DataVisualization/PCA.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/Assignment08_1174066_DataVisualization/PCA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/Assignment08_1174066_DataVisualization/TSNE.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/Assignment08_1174066_DataVisualization/TSNE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/Assignment08_1174066_DataVisualization/UMAP.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/Assignment08_1174066_DataVisualization/UMAP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/Assignment08_1174066_DataVisualization/Utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment_8/Assignment08_1174066_DataVisualization/Assignment08_1174066_DataVisualization/Utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066/.vs/Assignment09_1174066/FileContentIndex/08e3cf60-2406-449d-a711-3dc5a7b291d3.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066/.vs/Assignment09_1174066/FileContentIndex/526bcc22-dd2c-4434-afa5-d01904e236c0.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066/.vs/Assignment09_1174066/FileContentIndex/55bd62d4-7d5a-4c05-a439-7e42c37cb1b0.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066/.vs/Assignment09_1174066/FileContentIndex/92f19489-cab5-4b0d-b9ea-d5cc9f59e827.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066/.vs/Assignment09_1174066/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066/Assignment09_1174066.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066/Assignment09_1174066/Assignment09_1174066_LogisticReg.pyproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066/Assignment09_1174066/LogisticReg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066/Assignment09_1174066/LogisticSkLearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066/Assignment09_1174066/Utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066_DecisionTreesRandomForests/.vs/Assignment09_1174066_DecisionTreesRandomForests/FileContentIndex/e4c97684-2639-4f19-8bd8-e008a8259dd6.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066_DecisionTreesRandomForests/.vs/Assignment09_1174066_DecisionTreesRandomForests/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066_DecisionTreesRandomForests/.vs/Assignment09_1174066_DecisionTreesRandomForests/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066_DecisionTreesRandomForests/Assignment09_1174066_DecisionTreesRandomForests/Utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066_DecisionTreesRandomForests/Assignment09_1174066_DecisionTreesRandomForests/Utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066_SupportVectorMachine/.vs/Assignment09_1174066_SupportVectorMachine/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066_SupportVectorMachine/.vs/Assignment09_1174066_SupportVectorMachine/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066_SupportVectorMachine/Assignment09_1174066_SupportVectorMachine/IrisSVM.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment_9/Assignment09_1174066_SupportVectorMachine/Assignment09_1174066_SupportVectorMachine/IrisSVM.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2eSk2ddTXjc55nhEsUQmKeQyYgW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/2.Online MS CS/2nd Year/repo/dev-cs/CPSC 552 Mining/Assignment_6/Assignment06_LeastSquaresRegression_1174066"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7b55bb8-d4e3-4eac-8b1b-8fc6adcfba72" name="Changes" comment="" />
+      <created>1711905161157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711905161157</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

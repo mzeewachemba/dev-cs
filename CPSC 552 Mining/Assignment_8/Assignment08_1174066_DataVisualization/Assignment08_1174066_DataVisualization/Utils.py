@@ -3,11 +3,14 @@ import numpy as np
 
 def read_data():
     # TCGA dataset from UCI
-    #uci_tcga_url = "https://archive.ics.uci.edu/ml/machine-learning-databases/00401/"
+    #uci_tcga_url = the location of the file changed 
+    #from "https://archive.ics.uci.edu/ml/machine-learning-databases/00401/"   
+    #to search for TCGA-PANCAN-HiSeq-801x20531.tar.gz in "https://ics.uci.edu/~ddua/archive/usage_201902.html"
+
     #archive_name = "TCGA-PANCAN-HiSeq-801x20531.tar.gz"
     # above has already been extracted to the following files
-    datafile = "D:/PythonAM2/Data/TCGA-PANCAN-HiSeq-801x20531/data.csv"
-    labels_file = "D:/PythonAM2/Data/TCGA-PANCAN-HiSeq-801x20531/labels.csv"
+    datafile = "E:/16.Data_for_assignments/CPSC552/TCGA-PANCAN-HiSeq-801x20531/data.csv"
+    labels_file = "E:/16.Data_for_assignments/CPSC552/TCGA-PANCAN-HiSeq-801x20531/labels.csv"
     data = np.genfromtxt(
         datafile,
         delimiter=",",
@@ -21,9 +24,10 @@ def read_data():
         skip_header=1,
         dtype="str"
     )
-    print(data.shape)
-    print(data[:5, :3])
-    print(true_label_names[:5])
+    print(f"Shape of data: \n{data.shape}")
+    print(f"\n First 5 rows and first 3 columns of data:\n{data[:5, :3]}")
+    print(f"\n First 5 true label names:\n{true_label_names[:5]}")
+
 
     # The data variable contains all the gene expression values
     # from 20,531 genes. The true_label_names are the cancer
@@ -37,7 +41,8 @@ def read_data():
     # we need to convert the labels to integers with LabelEncoder:
     label_encoder = LabelEncoder()
     true_labels = label_encoder.fit_transform(true_label_names)
-    print(true_labels[:5])
-    print(label_encoder.classes_)
+    
+    print(f"\n First 5 true labels: \n {true_labels[:5]}")
+    print(f"\n Label encoder classes: \n {label_encoder.classes_}")
 
     return data, true_labels

@@ -10,20 +10,21 @@ def main():
     
     # randomly select 800 samples from dataset
     np.random.seed(100)
-    subsample_idc = np.random.choice(X.shape[0], 800, replace=False)
+    subsample_idc = np.random.choice(X.shape[0], 800, replace=False)  # Generates a random sample of 800 indices from the range of indices of the data
     X = X[subsample_idc, :]
     y = y[subsample_idc]
     y = np.array([int(lbl) for lbl in y])
     
     num_components = 2
-    isomap = Isomap(n_components=num_components)
+    isomap = Isomap(n_components=num_components , n_neighbors=10)  # applying isomap algorithms to reduce number of components
     X_reduced = isomap.fit_transform(X)
     
-    print(X_reduced.shape)
+    print(f'\n Printing X_reduced.shape \n {X_reduced.shape}')
+
     
-    plt.title('ISOMAP')
     plt.scatter(X_reduced[:, 0], X_reduced[:, 1], s=5, c=y, cmap='Spectral')
     plt.colorbar(boundaries=np.arange(11) - 0.5).set_ticks(np.arange(len(np.unique(y))))
+    plt.title('ISOMap Visualization for TCGA-PANCAN cancer dataset')
     plt.show()
 
 if __name__ == "__main__":

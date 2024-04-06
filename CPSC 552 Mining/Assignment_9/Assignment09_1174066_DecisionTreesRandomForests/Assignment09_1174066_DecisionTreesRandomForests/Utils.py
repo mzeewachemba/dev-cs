@@ -18,9 +18,13 @@ def visualize_classifier(model, X, y, ax=None, cmap='rainbow'):
     
     # Create a color plot with the results
     n_classes = len(np.unique(y))
+    # contours = ax.contourf(xx, yy, Z, alpha=0.3,
+    #                         levels=np.arange(n_classes + 1) - 0.5,
+    #                         cmap=cmap, clim=(y.min(), y.max()),
+    #                         zorder=1)
     contours = ax.contourf(xx, yy, Z, alpha=0.3,
                             levels=np.arange(n_classes + 1) - 0.5,
-                            cmap=cmap, clim=(y.min(), y.max()),
+                            cmap=cmap,
                             zorder=1)
     
     ax.set(xlim=xlim, ylim=ylim)
