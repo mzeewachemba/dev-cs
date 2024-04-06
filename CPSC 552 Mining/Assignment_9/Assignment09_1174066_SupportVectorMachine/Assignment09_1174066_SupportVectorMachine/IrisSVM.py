@@ -36,8 +36,8 @@ class IrisSVM(object):
         X = iris.data[:, :2]
         y = iris.target
         C = 1.0  # SVM regularization parameter
-        models = (svm.SVC(kernel='linear', C=C),
-                  svm.LinearSVC(C=C),
+        models = (svm.SVC(kernel='linear', max_iter=4000 , C=C ),
+                  svm.LinearSVC(C=C , dual=False ),
                   svm.SVC(kernel='rbf', gamma='auto', C=C),
                   svm.SVC(kernel='poly', gamma='auto', degree=3, C=C))
 
@@ -78,8 +78,8 @@ class IrisSVM(object):
         y = iris.target
         C = 1.0  # SVM regularization parameter
         models = (
-            svm.SVC(kernel='linear', max_iter=4000, C=C),
-            svm.LinearSVC(C=C, max_iter=4000),
+            svm.SVC(kernel='linear', max_iter=4000, C=C ),
+            svm.LinearSVC(C=C, max_iter=4000 , dual=False),
             svm.SVC(kernel='rbf', gamma='auto', C=C),
             svm.SVC(kernel='poly', gamma='auto', degree=3, C=C)
         )
@@ -145,7 +145,7 @@ class IrisSVM(object):
         C = 1.0  # SVM regularization parameter
         models = [
             svm.SVC(kernel='linear', max_iter=4000, C=C),
-            svm.LinearSVC(C=C, max_iter=4000),
+            svm.LinearSVC(C=C, max_iter=4000 , dual=False),
             svm.SVC(kernel='rbf', gamma='auto', C=C),
             svm.SVC(kernel='poly', gamma='auto', degree=3, C=C)
         ]

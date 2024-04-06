@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CancerAnalysisPCANN", "CancerAnalysisPCANN\CancerAnalysisPCANN.pyproj", "{F646061D-F1FF-46AC-83CD-33132F9F99D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F646061D-F1FF-46AC-83CD-33132F9F99D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F646061D-F1FF-46AC-83CD-33132F9F99D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5FF2738-02D1-4B81-90EE-4785C82283C2}
+	EndGlobalSection
+EndGlobal
