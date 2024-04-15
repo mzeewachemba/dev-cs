@@ -1,0 +1,30 @@
+Create 3 contracts:
+
+1. UBToken. An ERC20 token.
+a. Description: "UBToken"
+b. Symbol: "UB"
+c. Number of tokens: 1,000,000
+
+2. Deposit.
+a. Utilize openzeppelin to make it Ownable
+b. Create the following functions:
+. registerToken(symbol, tokenaddress). Registers the token so it can be used in deposits.
+= depositTokens(amount, symbol). Permits a user to deposit a registered token.
+chargeFee(amount, depositor, symbol). Charges a fee to the user by reducing their deposited balance.
+w withdrawFees(). Permits the owner to withdraw all the fees it has charged.
+
+3. UBNFT. An ERC721 token.
+a. Inherits the Deposit functionality.
+b. Create the following function:
+mint() .> tokenId
+1. makes sure the fee is met to mint the NFT
+2. charges a fee to mint NFT
+c. All other NFT functionality as in the NFT assignment.
+getfee(), set_baseURI(), _baseURI(), baseURI[], tokenURI[],
+
+Create a Script with the following functions:
+1. deploy_token. Deploys token and transfers 1,000 tokens to a different user.
+2. deploy_NFT. Deploys the NFT with a token fee of 1,000 tokens
+3. register token. Register our token 'UB' to be used in the NFT.
+4. deposit token. Approves and transfer the token 'UB' into the NFT,
+5. mint_nft. Mint an nft with a predefined URI.

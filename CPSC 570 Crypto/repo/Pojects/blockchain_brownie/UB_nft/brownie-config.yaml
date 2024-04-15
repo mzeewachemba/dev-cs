@@ -35,6 +35,8 @@ networks:
     chainid: 11155111
     gas_price: auto
     timeout: 60
+  sepolia:
+    verify: True
 
 dotenv: .env
 wallets:
