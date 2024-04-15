@@ -14,22 +14,20 @@ def check_IPFS(): #cjecking if ifps has files
 
     pinned = get_pinned()
 
-    return pinned['metadata']
+    return pinned['metadata'] # gets the hash of the metadata
 
-def deploy_token():
+def deploy_token(): # Deploys an ERC20 token contract (UBToken) using the deployer's account .
     account = get_account()
     # print(f'Networks are: {config}')
     ubtoken = UBToken.deploy({'from': account}, publish_source=config['networks'][network.show_active()].get('verify', False))
     # ubtoken = UBToken.deploy({'from': account})
-
-
-    return ubtoken
+    return ubtoken # Returns the deployed token contract address
 
 
 def deploy_nft():
     account = get_account()
     baseuri = check_IPFS()
-    if network.show_active() == 'development' or len(UBToken) == 0:
+    if network.show_active() == 'development' or len(UBToken) == 0: # Checks if the network is development or if the token has not been deployed yet.
         token = deploy_token()
     else:
         token = UBToken[-1]

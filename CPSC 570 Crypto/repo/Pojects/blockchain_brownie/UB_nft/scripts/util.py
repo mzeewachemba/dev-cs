@@ -4,7 +4,7 @@ LOCAL_BLOCKCHAIN_ENVIRONMENTS = ["development", "ganache-local"]
 DECIMALS = 8
 STARTING_PRICE = 200_000_000_000
 
-def get_account(index=0):
+def get_account(index=1):
     if network.show_active() in LOCAL_BLOCKCHAIN_ENVIRONMENTS:
         return accounts[index]
     else:

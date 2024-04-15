@@ -8,11 +8,11 @@ class Network(nn.Module):
     def __init__(self, hidden_size1, num_classes):
         super(Network, self).__init__()
         # self.conv1 = nn.Conv1d(1, 6, 15)  # 15x1 conv.kernel
-        self.conv1 = nn.Conv1d(1, 16, 15)  # 16 feature maps
+        self.conv1 = nn.Conv1d(1, 16, 15)  # 16 feature maps  first CNN layer , changing  conv kernel
         # in_channels = 1 because of linear data
         self.relu = nn.ReLU()
         # self.conv2 = nn.Conv1d(6, 4, 18)
-        self.conv2 = nn.Conv1d(16, 4, 18)
+        self.conv2 = nn.Conv1d(16, 4, 18) #second CNN layer , changing  conv kernel
         # 20500 comes from the dimension of the last conv layer
         self.fc1 = nn.Linear(4 * 20500, hidden_size1)
         self.fc2 = nn.Linear(hidden_size1, num_classes)

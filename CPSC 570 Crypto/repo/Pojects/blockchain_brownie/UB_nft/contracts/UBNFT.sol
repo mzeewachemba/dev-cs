@@ -17,19 +17,19 @@ contract UBNFT is ERC721, Ownable {
     uint public fee  = 100 * 10**18;
     uint total_fees = 0;
 
-    // constructor(address _token) ERC721("University of Bridgeport Logos", "UBL") {
-    //     // for (uint i = 1; i <= total_supply; i++) {
-    //     //     _safeMint(msg.sender, i);
-    //     // }
-    //     payment_token = _token;
-    // }
-
-    constructor(address _token) ERC721("1174066", "A") {
+    constructor(address _token) ERC721("University", "UBL") {
         // for (uint i = 1; i <= total_supply; i++) {
         //     _safeMint(msg.sender, i);
         // }
         payment_token = _token;
     }
+
+    // constructor(address _token) ERC721("1174066", "A") {
+    //     // for (uint i = 1; i <= total_supply; i++) {
+    //     //     _safeMint(msg.sender, i);
+    //     // }
+    //     payment_token = _token;
+    // }
 
     function set_baseURI(string memory _uri) public onlyOwner {
         base_uri = _uri;
