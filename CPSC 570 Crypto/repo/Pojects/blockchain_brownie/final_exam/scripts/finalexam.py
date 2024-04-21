@@ -11,20 +11,21 @@ def deploy_NFT():
     account = get_account(0)  # Get the deployer's account
     ubtoken = UBToken[-1]  # Assuming UBToken has been deployed previously
     ubnft = UBNFT.deploy(ubtoken.address, {'from': account})
-    ubnft.set_baseURI('https://your-base-uri.com')  # Set the base URI for NFTs
+    ubnft.set_baseURI('https://testnets.opensea.io/assets/sepolia/0x8c7cf47b2ca946ac4ed59d37e583249f14129a4a/1')  # Set the base URI for NFTs
 
 def register_token():
     account = get_account(0) # Get the deployer's account
-    deposit_contract = Deposit.deploy({'from': account})
+    # deposit_contract = Deposit.deploy({'from': account})
     ubtoken = UBToken[-1]  # Assuming UBToken has been deployed previously
-    deposit_contract.registerToken("UB", ubtoken.address, {'from': account})
+    ubnft = UBNFT[-1]
+    ubnft.registerToken("UB", ubtoken.address, {'from': account})
 
 def deposit_token():
     account = get_account(0)  # Get the deployer's account
     ubtoken = UBToken[-1]  # Assuming UBToken has been deployed previously
     ubnft = UBNFT[-1]  # Assuming UBNFT has been deployed previously
     ubtoken.approve(ubnft.address, 1000 * 10 ** 18, {'from': account})
-    ubnft.deposit(1000 * 10 ** 18, {'from': account})
+    ubnft.depositTokens(1000 * 10 ** 18, {'from': account})
 
 def mint_nft():
     account = get_account()  # Get the deployer's account
