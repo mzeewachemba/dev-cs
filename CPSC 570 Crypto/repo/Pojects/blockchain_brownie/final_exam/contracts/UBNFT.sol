@@ -5,8 +5,9 @@ import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/utils/Strings.sol";
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
+import "./Deposit.sol";
 
-contract UBNFT is ERC721,Ownable {
+contract UBNFT is ERC721,Ownable,Deposit {
     
     uint total_supply = 5000;
     uint public token_counter = 1;
@@ -43,7 +44,7 @@ contract UBNFT is ERC721,Ownable {
         return string(abi.encodePacked(_baseURI(), "/", Strings.toString(tokenID)));
     }
 
-    function deposit(uint _amount) public payable {
+    function depositTokens(uint _amount) public payable {
         require(IERC20(payment_token).allowance(msg.sender, address(this)) >= _amount, "Allowance not enough");
 
         IERC20(payment_token).transferFrom(msg.sender, address(this), _amount);
