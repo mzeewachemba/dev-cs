@@ -25,7 +25,7 @@ def main():
     # -------to view randomly generated images by vae
     vaemodel = torch.load(PATH)  # load trained model
     vaemodel.eval()
-    with torch.no_grad():
+    with torch.no_grad():                                                                                           
         z = torch.randn(64, 2).to(device)  # random sample
         gen_sample = vaemodel.decoder(z).to(device)
 
