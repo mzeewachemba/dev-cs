@@ -10,8 +10,8 @@ import torch.optim as optim
 def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-    data_dir_train = "D:/DeepLearning2/data/Dataset_PlanesCarsShips/train"
-    data_dir_test = "D:/DeepLearning2/data/Dataset_PlanesCarsShips/test"
+    data_dir_train = "E:/16.Data_for_assignments/CPEG592/Dataset_PlanesCarsShips/train"
+    data_dir_test = "E:/16.Data_for_assignments/CPEG592/Dataset_PlanesCarsShips/test"
 
     image_transforms = {
         "train": transforms.Compose([
@@ -41,8 +41,8 @@ def main():
     Utils.plot_images(images, labels)  # plot images
 
     # Choose between NetworkLinear or NetworkCNN model
-    net = NetworkLinear()  # create the simple linear model
-    # net = NetworkCNN() # create the CNN model
+    # net = NetworkLinear()  # create the simple linear model
+    net = NetworkCNN() # create the CNN model
 
     loss_criterion = torch.nn.CrossEntropyLoss()
     optimizer = optim.SGD(net.parameters(), lr=0.001, momentum=0.9)
