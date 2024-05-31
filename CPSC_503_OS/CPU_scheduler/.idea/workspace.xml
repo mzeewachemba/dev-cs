@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fdf4213-8f49-4a2f-befc-05f7508a5bcb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CPU_scheduler/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPU_scheduler/.idea/CPU_scheduler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPU_scheduler/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPU_scheduler/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPU_scheduler/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPU_scheduler/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPU_scheduler/Chronometer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CPU_scheduler/FileContentIndex/10aa1d48-df23-4737-b7d3-b6182ab8dc13.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CPU_scheduler/FileContentIndex/1d8ea471-0e4b-400e-9458-9a6adcfbf16c.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CPU_scheduler/FileContentIndex/219e36fa-3d75-48fd-b446-a02492f9fd4b.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CPU_scheduler/FileContentIndex/83235c63-3a89-4acd-a67e-35e1eb48e367.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CPU_scheduler/FileContentIndex/8872ce42-4cf8-4fa6-a394-b75a6d941a43.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CPU_scheduler/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CPU_scheduler/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CPU_scheduler/CPU_scheduler.py" beforeDir="false" afterPath="$PROJECT_DIR$/CPU_scheduler/CPU_scheduler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CPU_scheduler/FIFO.py" beforeDir="false" afterPath="$PROJECT_DIR$/CPU_scheduler/FIFO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CPU_scheduler/Job.py" beforeDir="false" afterPath="$PROJECT_DIR$/CPU_scheduler/Job.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CPU_scheduler/LinearQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/CPU_scheduler/LinearQueue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CPU_scheduler/PriorityBased.py" beforeDir="false" afterPath="$PROJECT_DIR$/CPU_scheduler/PriorityBased.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CPU_scheduler/ShortJobFirst_SJF.py" beforeDir="false" afterPath="$PROJECT_DIR$/CPU_scheduler/ShortJobFirst_SJF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/.vs/SimpleClassification/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/.vs/SimpleClassification/v17/.suo" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2hAMMFVLCW5VVCigU54C0Qx6Tkd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fdf4213-8f49-4a2f-befc-05f7508a5bcb" name="Changes" comment="" />
+      <created>1717032379021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717032379021</updated>
+    </task>
+    <servers />
+  </component>
+</project>
