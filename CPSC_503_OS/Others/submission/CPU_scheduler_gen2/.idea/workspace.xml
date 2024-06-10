@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2f8d8d7-2089-42a3-bd2d-f85e49cebd03" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_ 1174066_v1/.vs/CPU_scheduler_/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../CPU_scheduler_ 1174066_v1/.vs/CPU_scheduler_/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_ 1174066_v1/.vs/CPU_scheduler_/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../CPU_scheduler_ 1174066_v1/.vs/CPU_scheduler_/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_gen2/.idea/CPU_scheduler_gen2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CPU_scheduler_gen2/.idea/CPU_scheduler_gen3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_gen2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CPU_scheduler_gen2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_gen2/CPU_scheduler_5_mlq_all _working_together_.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../CPU_scheduler_gen2/CPU_scheduler_5_mlq_all _working_together_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/PytorchFundamentals/.vs/PytorchFundamentals/FileContentIndex/13ce1c43-6145-435d-90b0-066c2acdf988.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/PytorchFundamentals/.vs/PytorchFundamentals/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/PytorchFundamentals/PytorchFundamentals.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/PytorchFundamentals/PytorchFundamentals/PytorchFundamentals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/PytorchFundamentals/PytorchFundamentals/PytorchFundamentals.pyproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/.vs/SimpleClassification/FileContentIndex/673a1882-1073-42e3-b773-4edcd5a5f0c6.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/.vs/SimpleClassification/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/.vs/SimpleClassification/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/SimpleClassification/SimpleClassification.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/SimpleClassification/SimpleClassification.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2hAUvvyYcMCL8SyqKGmN1xcZ3w8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.CPU_scheduler.executor": "Run",
+    "Python.CPU_scheduler_1.executor": "Run",
+    "Python.CPU_scheduler_2.executor": "Run",
+    "Python.CPU_scheduler_3.executor": "Run",
+    "Python.CPU_scheduler_4.executor": "Run",
+    "Python.CPU_scheduler_5_mlq_all _working_together_.executor": "Run",
+    "Python.CPU_scheduler_Fin_1.executor": "Run",
+    "Python.CPU_scheduler_Fin_2.executor": "Run",
+    "Python.CPU_scheduler_Fin_3.executor": "Run",
+    "Python.CPU_scheduler_Fin_fifo_working_int_priority.executor": "Run",
+    "Python.CPU_scheduler_Fin_fifo_working_int_priority_2.executor": "Run",
+    "Python.CPU_scheduler_Fin_fifo_working_int_priority_2with_graph.executor": "Run",
+    "Python.Main.executor": "Run",
+    "Python.Switch.executor": "Run",
+    "Python.cpu_scheduler_3.executor": "Run",
+    "Python.cpu_scheduler_multilevel1.executor": "Run",
+    "Python.priority_based_2.executor": "Run",
+    "Python.priority_queue.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/2.Online MS CS/2nd Year/repo/dev-cs/CPSC_503_OS/submission/CPU_scheduler_gen3",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\2.Online MS CS\2nd Year\repo\dev-cs\CPSC_503_OS\submission\CPU_scheduler_gen3" />
+      <recent name="E:\2.Online MS CS\2nd Year\repo\dev-cs\CPSC_503_OS\submission\CPU_scheduler_gen2" />
+      <recent name="E:\2.Online MS CS\2nd Year\repo\dev-cs\CPSC_503_OS\CPU_scheduler_gen2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2f8d8d7-2089-42a3-bd2d-f85e49cebd03" name="Changes" comment="" />
+      <created>1717036609587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717036609587</updated>
+    </task>
+    <servers />
+  </component>
+</project>
