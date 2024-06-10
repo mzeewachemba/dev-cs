@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2f8d8d7-2089-42a3-bd2d-f85e49cebd03" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Assignment1_Su24.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/.idea/CPU_scheduler.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/.vs/CPU_scheduler/FileContentIndex/2bdeaac6-cf7f-46ce-9271-42ef4d70219a.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/.vs/CPU_scheduler/FileContentIndex/2dd40907-df51-46e7-aa43-c4d441af43c9.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/.vs/CPU_scheduler/FileContentIndex/980e8524-071a-4a38-a61d-0c05bb843701.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/.vs/CPU_scheduler/FileContentIndex/9b35d7dd-3289-4253-ae98-dfd03a60014a.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/.vs/CPU_scheduler/FileContentIndex/aaa33411-9349-44b7-8ea8-d4df616c74b8.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/.vs/CPU_scheduler/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/CPU_scheduler.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/CPU_scheduler/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/CPU_scheduler/.idea/CPU_scheduler.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/CPU_scheduler/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/CPU_scheduler/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/CPU_scheduler/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/CPU_scheduler/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/CPU_scheduler/CPU_scheduler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/CPU_scheduler/CPU_scheduler.pyproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/CPU_scheduler/Chronometer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/CPU_scheduler/FIFO.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/CPU_scheduler/Job.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/CPU_scheduler/LinearQueue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/CPU_scheduler/PriorityBased.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/CPU_scheduler/RoundRobin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/CPU_scheduler/ShortJobFirst_SJF.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/CPU_scheduler/Status.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler/CPU_scheduler/Switch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_ 1174066_v1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_ 1174066_v1/.vs/CPU_scheduler_/FileContentIndex/1946d3fc-24fd-40f6-a2a9-1b915d4ef6f6.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_ 1174066_v1/.vs/CPU_scheduler_/FileContentIndex/66d84ecf-313e-4eba-ac8e-7103ecc05308.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_ 1174066_v1/.vs/CPU_scheduler_/FileContentIndex/98c45900-ea6d-444b-8a5c-ec237afd3fd4.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_ 1174066_v1/.vs/CPU_scheduler_/FileContentIndex/9cfe7084-a3b9-4a1a-b0f4-95b129d198e8.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_ 1174066_v1/.vs/CPU_scheduler_/FileContentIndex/e65282fc-3deb-49c0-87a3-286150df1139.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_ 1174066_v1/.vs/CPU_scheduler_/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_ 1174066_v1/.vs/CPU_scheduler_/v17/DocumentLayout.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_ 1174066_v1/CPU_scheduler_.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_ 1174066_v1/CPU_scheduler_/CPU_scheduler_.pyproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_ 1174066_v1/CPU_scheduler_/CPU_scheduler_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_ 1174066_v1/CPU_scheduler_/Job.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_/.vs/CPU_scheduler_/FileContentIndex/2e0efd01-d0cd-4a28-9438-ec50e39b5543.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_/.vs/CPU_scheduler_/FileContentIndex/66d84ecf-313e-4eba-ac8e-7103ecc05308.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_/.vs/CPU_scheduler_/FileContentIndex/77ef2a55-266e-4458-81c9-a1fefabc9088.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_/.vs/CPU_scheduler_/FileContentIndex/db526776-8f27-42d5-8d50-6106a013a8cd.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_/.vs/CPU_scheduler_/FileContentIndex/e65282fc-3deb-49c0-87a3-286150df1139.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_/.vs/CPU_scheduler_/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_/CPU_scheduler_.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_/CPU_scheduler_/CPU_scheduler_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_/CPU_scheduler_/CPU_scheduler_.pyproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_/CPU_scheduler_/Job.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_/CPU_scheduler_/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_2_bkup/.vs/CPU_scheduler_/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_2_bkup/CPU_scheduler_.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_2_bkup/CPU_scheduler_/CPU_scheduler_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_2_bkup/CPU_scheduler_/CPU_scheduler_.pyproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_2_bkup/CPU_scheduler_/Job.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_2_bkup/CPU_scheduler_/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/.vs/CPU_scheduler/FileContentIndex/089f665d-5798-4286-a0cf-cdc66a94dbb2.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/.vs/CPU_scheduler/FileContentIndex/485fd9ba-2e0e-4d49-9385-8f3bc50cdb03.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/.vs/CPU_scheduler/FileContentIndex/5dcdf38f-d62c-4335-8775-4f0e03e3dd09.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/.vs/CPU_scheduler/FileContentIndex/8872ce42-4cf8-4fa6-a394-b75a6d941a43.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/.vs/CPU_scheduler/FileContentIndex/fed330f0-84fd-4bca-b624-5635145397af.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/.vs/CPU_scheduler/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/CPU_scheduler.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/CPU_scheduler/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/CPU_scheduler/.idea/CPU_scheduler.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/CPU_scheduler/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/CPU_scheduler/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/CPU_scheduler/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/CPU_scheduler/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/CPU_scheduler/CPU_scheduler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/CPU_scheduler/CPU_scheduler.pyproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/CPU_scheduler/Chronometer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/CPU_scheduler/FIFO.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/CPU_scheduler/Job.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/CPU_scheduler/LinearQueue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/CPU_scheduler/PriorityBased.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/CPU_scheduler/RoundRobin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/CPU_scheduler/ShortJobFirst_SJF.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/CPU_scheduler/Status.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup/CPU_scheduler/Switch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_1/.vs/CPU_scheduler_/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_1/CPU_scheduler_.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_1/CPU_scheduler_/CPU_scheduler_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_1/CPU_scheduler_/CPU_scheduler_.pyproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_1/CPU_scheduler_/Job.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/.vs/CPU_scheduler/FileContentIndex/089f665d-5798-4286-a0cf-cdc66a94dbb2.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/.vs/CPU_scheduler/FileContentIndex/485fd9ba-2e0e-4d49-9385-8f3bc50cdb03.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/.vs/CPU_scheduler/FileContentIndex/5dcdf38f-d62c-4335-8775-4f0e03e3dd09.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/.vs/CPU_scheduler/FileContentIndex/8872ce42-4cf8-4fa6-a394-b75a6d941a43.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/.vs/CPU_scheduler/FileContentIndex/fed330f0-84fd-4bca-b624-5635145397af.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/.vs/CPU_scheduler/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/CPU_scheduler.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/CPU_scheduler/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/CPU_scheduler/.idea/CPU_scheduler.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/CPU_scheduler/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/CPU_scheduler/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/CPU_scheduler/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/CPU_scheduler/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/CPU_scheduler/CPU_scheduler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/CPU_scheduler/CPU_scheduler.pyproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/CPU_scheduler/Chronometer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/CPU_scheduler/FIFO.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/CPU_scheduler/Job.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/CPU_scheduler/LinearQueue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/CPU_scheduler/PriorityBased.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/CPU_scheduler/RoundRobin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/CPU_scheduler/ShortJobFirst_SJF.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/CPU_scheduler/Status.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_2/CPU_scheduler/Switch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/.vs/CPU_scheduler/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/CPU_scheduler.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/CPU_scheduler/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/CPU_scheduler/.idea/CPU_scheduler.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/CPU_scheduler/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/CPU_scheduler/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/CPU_scheduler/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/CPU_scheduler/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/CPU_scheduler/CPU_scheduler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/CPU_scheduler/CPU_scheduler.pyproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/CPU_scheduler/Chronometer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/CPU_scheduler/FIFO.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/CPU_scheduler/Job.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/CPU_scheduler/LinearQueue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/CPU_scheduler/PriorityBased.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/CPU_scheduler/RoundRobin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/CPU_scheduler/ShortJobFirst_SJF.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/CPU_scheduler/Status.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_3/CPU_scheduler/Switch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/.vs/CPU_scheduler/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/CPU_scheduler.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/CPU_scheduler/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/CPU_scheduler/.idea/CPU_scheduler.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/CPU_scheduler/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/CPU_scheduler/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/CPU_scheduler/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/CPU_scheduler/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/CPU_scheduler/CPU_scheduler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/CPU_scheduler/CPU_scheduler.pyproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/CPU_scheduler/Chronometer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/CPU_scheduler/FIFO.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/CPU_scheduler/Job.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/CPU_scheduler/LinearQueue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/CPU_scheduler/PriorityBased.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/CPU_scheduler/RoundRobin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/CPU_scheduler/ShortJobFirst_SJF.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/CPU_scheduler/Status.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_bkup_4/CPU_scheduler/Switch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_gen2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_gen2/.idea/CPU_scheduler_gen2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_gen2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_gen2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_gen2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_gen2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_gen2/CPU_scheduler_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_gen2/CPU_scheduler_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_gen2/CPU_scheduler_3_mlq_working_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_gen2/CPU_scheduler_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_gen2/CPU_scheduler_5_mlq_all _working_together_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_gen2/Job.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CPU_scheduler_gen2/cpu_scheduler_multilevel1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/PytorchFundamentals/.vs/PytorchFundamentals/FileContentIndex/13ce1c43-6145-435d-90b0-066c2acdf988.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/PytorchFundamentals/.vs/PytorchFundamentals/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/PytorchFundamentals/PytorchFundamentals.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/PytorchFundamentals/PytorchFundamentals/PytorchFundamentals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/PytorchFundamentals/PytorchFundamentals/PytorchFundamentals.pyproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/.vs/SimpleClassification/FileContentIndex/10845a00-15fb-4127-9959-edd5b738c7c2.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/.vs/SimpleClassification/FileContentIndex/673a1882-1073-42e3-b773-4edcd5a5f0c6.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/.vs/SimpleClassification/FileContentIndex/b0d72ceb-b5b1-462c-8d25-88c94ce89aa1.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/.vs/SimpleClassification/FileContentIndex/b5f4eb70-d761-4f0a-a1eb-a9109d4cfba1.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/.vs/SimpleClassification/FileContentIndex/cbf34b87-3291-4a39-8fd0-7b83d3a71a25.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/.vs/SimpleClassification/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/SimpleClassification.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/SimpleClassification/MyDataSet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/SimpleClassification/NetworkCNN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/SimpleClassification/NetworkLinear.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/SimpleClassification/SimpleClassification.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/SimpleClassification/SimpleClassification.pyproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CPSC_592_NLP_LLM/Assignments/Assignment_01/SimpleClassification/SimpleClassification/Utils.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2hAUvvyYcMCL8SyqKGmN1xcZ3w8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.CPU_scheduler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CPU_scheduler_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CPU_scheduler_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CPU_scheduler_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CPU_scheduler_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CPU_scheduler_5_mlq_all _working_together_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CPU_scheduler_Fin_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CPU_scheduler_Fin_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CPU_scheduler_Fin_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CPU_scheduler_Fin_fifo_working_int_priority.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CPU_scheduler_Fin_fifo_working_int_priority_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CPU_scheduler_Fin_fifo_working_int_priority_2with_graph.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Switch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cpu_scheduler_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cpu_scheduler_multilevel1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.priority_based_2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/2.Online MS CS/2nd Year/repo/dev-cs/CPSC_503_OS/assignment_01/CPU_scheduler_gen3&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\2.Online MS CS\2nd Year\repo\dev-cs\CPSC_503_OS\submission\CPU_scheduler_gen2" />
+      <recent name="E:\2.Online MS CS\2nd Year\repo\dev-cs\CPSC_503_OS\CPU_scheduler_gen2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="CPU_scheduler_gen2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2f8d8d7-2089-42a3-bd2d-f85e49cebd03" name="Changes" comment="" />
+      <created>1717036609587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717036609587</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
