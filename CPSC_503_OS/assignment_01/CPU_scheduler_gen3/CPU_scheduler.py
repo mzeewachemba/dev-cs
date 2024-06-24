@@ -18,12 +18,12 @@ class MultiLevelQueueScheduling(LinearQueue):
 
     def runMLQ(self, priority_based_switch, jobs, context_switching_time):
         self.process_jobs_Fifo(jobs, context_switching_time, priority_based_switch)
-        # print(f"FIFO avg_turn_t is {self.get_avg_turn_t()}")
-        # print(f"FIFO avg_wt is {self.get_avg_wt()}")
-        # print(f"FIFO cpu utilization is {self.get_cpu_utilization()}%")
-        # print(f"FIFO Maximum turnaround time is {self.get_max_turn_around_time()}")
-        # print(f"FIFO Maximum wait time {self.get_max_waiting_time()}")
-        # print(f"FIFO CPU throughput is {self.get_cpu_throughput()}")
+        print(f"FIFO avg_turn_t is {self.get_avg_turn_t()}")
+        print(f"FIFO avg_wt is {self.get_avg_wt()}")
+        print(f"FIFO cpu utilization is {self.get_cpu_utilization()}%")
+        print(f"FIFO Maximum turnaround time is {self.get_max_turn_around_time()}")
+        print(f"FIFO Maximum wait time {self.get_max_waiting_time()}")
+        print(f"FIFO CPU throughput is {self.get_cpu_throughput()}")
 
     def process_jobs_Fifo(self, jobs, context_switching_time, priority_based_switch):
         current_time = 0
